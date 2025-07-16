@@ -1,0 +1,5 @@
+node_modules
+.expo
+.git
+npm-debug.log
+.expo-shared

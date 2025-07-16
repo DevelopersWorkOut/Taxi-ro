@@ -1,0 +1,8650 @@
+[
+  {
+    "id": "1816",
+    "name": "간석역",
+    "lat": 37.464689,
+    "lng": 126.693408,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1801",
+    "name": "개봉역",
+    "lat": 37.494698,
+    "lng": 126.858504,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1813",
+    "name": "구일역",
+    "lat": 37.496273,
+    "lng": 126.869599,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1817",
+    "name": "도원역",
+    "lat": 37.468604,
+    "lng": 126.642824,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1823",
+    "name": "도화역",
+    "lat": 37.466154,
+    "lng": 126.66846,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1808",
+    "name": "동암역",
+    "lat": 37.470835,
+    "lng": 126.703016,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1811",
+    "name": "동인천역",
+    "lat": 37.475414,
+    "lng": 126.632598,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1807",
+    "name": "백운역",
+    "lat": 37.483301,
+    "lng": 126.707179,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1815",
+    "name": "부개역",
+    "lat": 37.488479,
+    "lng": 126.740549,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1804",
+    "name": "부천역",
+    "lat": 37.484066,
+    "lng": 126.782779,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1806",
+    "name": "부평역",
+    "lat": 37.489457,
+    "lng": 126.724584,
+    "lineName": "경인선",
+    "transferLineName": "인천지하철 1호선"
+  },
+  {
+    "id": "4804",
+    "name": "소사역",
+    "lat": 37.482755,
+    "lng": 126.795654,
+    "lineName": "경인선",
+    "transferLineName": "서해선"
+  },
+  {
+    "id": "1805",
+    "name": "송내역",
+    "lat": 37.487626,
+    "lng": 126.753045,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1803",
+    "name": "역곡역",
+    "lat": 37.48514,
+    "lng": 126.811622,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1802",
+    "name": "오류동역",
+    "lat": 37.4944,
+    "lng": 126.844551,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1821",
+    "name": "온수역",
+    "lat": 37.492267,
+    "lng": 126.823399,
+    "lineName": "경인선",
+    "transferLineName": "수도권 도시철도 7호선"
+  },
+  {
+    "id": "1812",
+    "name": "인천역",
+    "lat": 37.476364,
+    "lng": 126.616936,
+    "lineName": "경인선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1810",
+    "name": "제물포역",
+    "lat": 37.466809,
+    "lng": 126.657165,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1809",
+    "name": "주안역",
+    "lat": 37.465041,
+    "lng": 126.680702,
+    "lineName": "경인선",
+    "transferLineName": "인천지하철 2호선"
+  },
+  {
+    "id": "1822",
+    "name": "중동역",
+    "lat": 37.486664,
+    "lng": 126.764474,
+    "lineName": "경인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0350",
+    "name": "가락시장",
+    "lat": 37.492368,
+    "lng": 127.118101,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 8호선"
+  },
+  {
+    "id": "0327",
+    "name": "경복궁(정부서울청사)",
+    "lat": 37.575844,
+    "lng": 126.973576,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0351",
+    "name": "경찰병원",
+    "lat": 37.495754,
+    "lng": 127.124198,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0339",
+    "name": "고속터미널",
+    "lat": 37.504953,
+    "lng": 127.004916,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 7호선+수도권  도시철도 9호선"
+  },
+  {
+    "id": "0340",
+    "name": "교대(법원·검찰청)",
+    "lat": 37.49306,
+    "lng": 127.013796,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0320",
+    "name": "구파발",
+    "lat": 37.636612,
+    "lng": 126.918827,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0334",
+    "name": "금호",
+    "lat": 37.548269,
+    "lng": 127.015785,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0341",
+    "name": "남부터미널(예술의전당)",
+    "lat": 37.48494,
+    "lng": 127.016289,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0323",
+    "name": "녹번",
+    "lat": 37.600882,
+    "lng": 126.935758,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0347",
+    "name": "대청",
+    "lat": 37.493607,
+    "lng": 127.079526,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0345",
+    "name": "대치",
+    "lat": 37.494601,
+    "lng": 127.063449,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0344",
+    "name": "도곡",
+    "lat": 37.491129,
+    "lng": 127.055694,
+    "lineName": "3호선",
+    "transferLineName": "수도권  광역철도 분당"
+  },
+  {
+    "id": "0326",
+    "name": "독립문",
+    "lat": 37.574534,
+    "lng": 126.957902,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0332",
+    "name": "동대입구",
+    "lat": 37.55816,
+    "lng": 127.005273,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0343",
+    "name": "매봉",
+    "lat": 37.487114,
+    "lng": 127.046907,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0325",
+    "name": "무악재",
+    "lat": 37.582658,
+    "lng": 126.950131,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0322",
+    "name": "불광",
+    "lat": 37.610554,
+    "lng": 126.929843,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0349",
+    "name": "수서",
+    "lat": 37.487507,
+    "lng": 127.101324,
+    "lineName": "3호선",
+    "transferLineName": "수도권  광역철도 분당"
+  },
+  {
+    "id": "0337",
+    "name": "신사",
+    "lat": 37.516438,
+    "lng": 127.020247,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0328",
+    "name": "안국",
+    "lat": 37.576562,
+    "lng": 126.98547,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0336",
+    "name": "압구정",
+    "lat": 37.526169,
+    "lng": 127.028502,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0333",
+    "name": "약수",
+    "lat": 37.554674,
+    "lng": 127.010628,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0342",
+    "name": "양재(서초구청)",
+    "lat": 37.48466,
+    "lng": 127.03513,
+    "lineName": "3호선",
+    "transferLineName": "수도권  광역철도 신분당선"
+  },
+  {
+    "id": "0321",
+    "name": "연신내",
+    "lat": 37.618855,
+    "lng": 126.920859,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0352",
+    "name": "오금",
+    "lat": 37.502288,
+    "lng": 127.128344,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "0335",
+    "name": "옥수",
+    "lat": 37.541653,
+    "lng": 127.017303,
+    "lineName": "3호선",
+    "transferLineName": "수도권  광역철도 경의중앙"
+  },
+  {
+    "id": "0330",
+    "name": "을지로3가",
+    "lat": 37.566299,
+    "lng": 126.992616,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0348",
+    "name": "일원",
+    "lat": 37.48389,
+    "lng": 127.08416,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0338",
+    "name": "잠원",
+    "lat": 37.512989,
+    "lng": 127.011613,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0329",
+    "name": "종로3가",
+    "lat": 37.571537,
+    "lng": 126.991237,
+    "lineName": "3호선",
+    "transferLineName": "수도권  도시철도 5호선+수도권 광역철도 1호선"
+  },
+  {
+    "id": "0319",
+    "name": "지축",
+    "lat": 37.648281,
+    "lng": 126.912551,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0331",
+    "name": "충무로",
+    "lat": 37.561302,
+    "lng": 126.995473,
+    "lineName": "3호선",
+    "transferLineName": "수도권  광역철도 4호선"
+  },
+  {
+    "id": "0346",
+    "name": "학여울",
+    "lat": 37.496757,
+    "lng": 127.070541,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0324",
+    "name": "홍제",
+    "lat": 37.588851,
+    "lng": 126.944092,
+    "lineName": "3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0417",
+    "name": "길음",
+    "lat": 37.604087,
+    "lng": 127.025353,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0434",
+    "name": "남태령",
+    "lat": 37.464339,
+    "lng": 126.989081,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0411",
+    "name": "노원",
+    "lat": 37.656274,
+    "lng": 127.063183,
+    "lineName": "4호선",
+    "transferLineName": "수도권  도시철도 7호선"
+  },
+  {
+    "id": "0421",
+    "name": "동대문",
+    "lat": 37.57099,
+    "lng": 127.008835,
+    "lineName": "4호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0422",
+    "name": "동대문역사문화공원(DDP)",
+    "lat": 37.565141,
+    "lng": 127.008458,
+    "lineName": "4호선",
+    "transferLineName": "수도권  도시철도 2호선+수도권  도시철도 5호선"
+  },
+  {
+    "id": "0431",
+    "name": "동작(현충원)",
+    "lat": 37.503567,
+    "lng": 126.980171,
+    "lineName": "4호선",
+    "transferLineName": "수도권  도시철도 9호선"
+  },
+  {
+    "id": "0424",
+    "name": "명동",
+    "lat": 37.561055,
+    "lng": 126.988271,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0415",
+    "name": "미아(서울사이버대학)",
+    "lat": 37.626435,
+    "lng": 127.026151,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0416",
+    "name": "미아사거리",
+    "lat": 37.613276,
+    "lng": 127.030083,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0409",
+    "name": "불암산",
+    "lat": 37.66956,
+    "lng": 127.078404,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0433",
+    "name": "사당",
+    "lat": 37.476563,
+    "lng": 126.981746,
+    "lineName": "4호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0428",
+    "name": "삼각지(전쟁기념관)",
+    "lat": 37.535057,
+    "lng": 126.973354,
+    "lineName": "4호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0410",
+    "name": "상계",
+    "lat": 37.660576,
+    "lng": 127.073199,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0426",
+    "name": "서울역",
+    "lat": 37.553172,
+    "lng": 126.972836,
+    "lineName": "4호선",
+    "transferLineName": "수도권  광역철도 1호선+수도권 광역철도 경의중앙+수도권 광역철도 공항"
+  },
+  {
+    "id": "0418",
+    "name": "성신여대입구(돈암)",
+    "lat": 37.592782,
+    "lng": 127.017338,
+    "lineName": "4호선",
+    "transferLineName": "수도권  광역철도 4호선"
+  },
+  {
+    "id": "0414",
+    "name": "수유(강북구청)",
+    "lat": 37.637127,
+    "lng": 127.024731,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0427",
+    "name": "숙대입구(갈월)",
+    "lat": 37.545124,
+    "lng": 126.971952,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0429",
+    "name": "신용산",
+    "lat": 37.52919,
+    "lng": 126.96858,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0413",
+    "name": "쌍문",
+    "lat": 37.648274,
+    "lng": 127.034381,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0430",
+    "name": "이촌(국립중앙박물관)",
+    "lat": 37.522525,
+    "lng": 126.97335,
+    "lineName": "4호선",
+    "transferLineName": "수도권  광역철도 경의중앙"
+  },
+  {
+    "id": "0412",
+    "name": "창동",
+    "lat": 37.652993,
+    "lng": 127.046746,
+    "lineName": "4호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0432",
+    "name": "총신대입구(이수)",
+    "lat": 37.487521,
+    "lng": 126.982309,
+    "lineName": "4호선",
+    "transferLineName": "수도권  도시철도 7호선"
+  },
+  {
+    "id": "0423",
+    "name": "충무로",
+    "lat": 37.561302,
+    "lng": 126.995473,
+    "lineName": "4호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0419",
+    "name": "한성대입구(삼선교)",
+    "lat": 37.58838,
+    "lng": 127.006751,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0420",
+    "name": "혜화",
+    "lat": 37.582116,
+    "lng": 127.001759,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0425",
+    "name": "회현(남대문시장)",
+    "lat": 37.559698,
+    "lng": 126.979565,
+    "lineName": "4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D007",
+    "name": "강남",
+    "lat": 37.496068,
+    "lng": 127.028506,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "D019",
+    "name": "광교(경기대)",
+    "lat": 37.30173474,
+    "lng": 127.0448561,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D018",
+    "name": "광교중앙(아주대)",
+    "lat": 37.28773752,
+    "lng": 127.052625,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D005",
+    "name": "논현",
+    "lat": 37.51111538,
+    "lng": 127.0213658,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "D014",
+    "name": "동천",
+    "lat": 37.33868413,
+    "lng": 127.1027937,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D013",
+    "name": "미금",
+    "lat": 37.35118332,
+    "lng": 127.1089028,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "D017",
+    "name": "상현",
+    "lat": 37.29868526,
+    "lng": 127.0695799,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D016",
+    "name": "성복",
+    "lat": 37.31404251,
+    "lng": 127.0807578,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D015",
+    "name": "수지구청",
+    "lat": 37.32300896,
+    "lng": 127.0955813,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D006",
+    "name": "신논현",
+    "lat": 37.50455543,
+    "lng": 127.0245306,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "D004",
+    "name": "신사",
+    "lat": 37.51612526,
+    "lng": 127.0197609,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "D008",
+    "name": "양재(서초구청)",
+    "lat": 37.48445352,
+    "lng": 127.0340995,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "D009",
+    "name": "양재시민의숲(매헌)",
+    "lat": 37.47096388,
+    "lng": 127.0384203,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D012",
+    "name": "정자",
+    "lat": 37.36821019,
+    "lng": 127.1083859,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "D010",
+    "name": "청계산입구",
+    "lat": 37.44871485,
+    "lng": 127.0543396,
+    "lineName": "신분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "D011",
+    "name": "판교",
+    "lat": 37.39571475,
+    "lng": 127.1112107,
+    "lineName": "신분당선",
+    "transferLineName": "수도권 광역철도 신분당선"
+  },
+  {
+    "id": "8022",
+    "name": "개운포역",
+    "lat": 35.507884,
+    "lng": 129.31697,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8003",
+    "name": "거제역",
+    "lat": 35.1879,
+    "lng": 129.0754,
+    "lineName": "동해선",
+    "transferLineName": "부산 도시철도 3호선"
+  },
+  {
+    "id": "8002",
+    "name": "거제해맞이역",
+    "lat": 35.182197,
+    "lng": 129.069315,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8004",
+    "name": "교대역",
+    "lat": 35.1951,
+    "lng": 129.08,
+    "lineName": "동해선",
+    "transferLineName": "부산 도시철도 1호선"
+  },
+  {
+    "id": "8013",
+    "name": "기장역",
+    "lat": 35.243027,
+    "lng": 129.218551,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8019",
+    "name": "남창역",
+    "lat": 35.419713,
+    "lng": 129.278077,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8021",
+    "name": "덕하역",
+    "lat": 35.494007,
+    "lng": 129.29894,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8005",
+    "name": "동래역",
+    "lat": 35.205614,
+    "lng": 129.078502,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8020",
+    "name": "망양역",
+    "lat": 35.456519,
+    "lng": 129.283667,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8009",
+    "name": "벡스코역",
+    "lat": 35.16899,
+    "lng": 129.13868,
+    "lineName": "동해선",
+    "transferLineName": "부산 도시철도 2호선"
+  },
+  {
+    "id": "8015",
+    "name": "부산원동역",
+    "lat": 35.362703,
+    "lng": 128.920499,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8001",
+    "name": "부전역",
+    "lat": 35.164668,
+    "lng": 129.06011,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8018",
+    "name": "서생역",
+    "lat": 35.345121,
+    "lng": 129.28904,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8008",
+    "name": "센텀역",
+    "lat": 35.1793,
+    "lng": 129.1245,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8011",
+    "name": "송정역",
+    "lat": 35.137559,
+    "lng": 126.791535,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8010",
+    "name": "신해운대역",
+    "lat": 35.181832,
+    "lng": 129.176696,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8006",
+    "name": "안락역",
+    "lat": 35.195907,
+    "lng": 129.101062,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8012",
+    "name": "오시리아역",
+    "lat": 35.196256,
+    "lng": 129.208291,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8017",
+    "name": "월내역",
+    "lat": 35.328177,
+    "lng": 129.272625,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8014",
+    "name": "일광역",
+    "lat": 35.265565,
+    "lng": 129.233307,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8007",
+    "name": "재송역",
+    "lat": 35.189,
+    "lng": 129.120919,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8016",
+    "name": "좌천역",
+    "lat": 35.311838,
+    "lng": 129.241097,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "8023",
+    "name": "태화강역",
+    "lat": 35.538669,
+    "lng": 129.349169,
+    "lineName": "동해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "7008",
+    "name": "경산역",
+    "lat": 35.8192,
+    "lng": 128.7276,
+    "lineName": "대경선",
+    "transferLineName": ""
+  },
+  {
+    "id": "7001",
+    "name": "구미역",
+    "lat": 36.1282,
+    "lng": 128.331,
+    "lineName": "대경선",
+    "transferLineName": ""
+  },
+  {
+    "id": "7006",
+    "name": "대구역",
+    "lat": 35.876,
+    "lng": 128.5961,
+    "lineName": "대경선",
+    "transferLineName": "대구도시철도 1호선"
+  },
+  {
+    "id": "7007",
+    "name": "동대구역",
+    "lat": 35.6791,
+    "lng": 128.627,
+    "lineName": "대경선",
+    "transferLineName": "대구도시철도 1호선"
+  },
+  {
+    "id": "7002",
+    "name": "사곡역",
+    "lat": 35.0988,
+    "lng": 128.3566,
+    "lineName": "대경선",
+    "transferLineName": ""
+  },
+  {
+    "id": "7005",
+    "name": "서대구역",
+    "lat": 35.8814,
+    "lng": 128.5422,
+    "lineName": "대경선",
+    "transferLineName": ""
+  },
+  {
+    "id": "7004",
+    "name": "왜관역",
+    "lat": 35.9921,
+    "lng": 128.4001,
+    "lineName": "대경선",
+    "transferLineName": ""
+  },
+  {
+    "id": "A07",
+    "name": "검암",
+    "lat": 37.56902547,
+    "lng": 126.6735357,
+    "lineName": "인천국제공항선",
+    "transferLineName": "인천 도시철도 2호선"
+  },
+  {
+    "id": "A06",
+    "name": "계양",
+    "lat": 37.57160721,
+    "lng": 126.736023,
+    "lineName": "인천국제공항선",
+    "transferLineName": "인천 도시철도 1호선"
+  },
+  {
+    "id": "A02",
+    "name": "공덕",
+    "lat": 37.54284055,
+    "lng": 126.9513301,
+    "lineName": "인천국제공항선",
+    "transferLineName": "서울 도시철도 5호선+서울 도시철도 6호선+경의중앙선"
+  },
+  {
+    "id": "A09",
+    "name": "공항화물청사",
+    "lat": 37.45902611,
+    "lng": 126.4774333,
+    "lineName": "인천국제공항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "A05",
+    "name": "김포공항",
+    "lat": 37.56211652,
+    "lng": 126.8015442,
+    "lineName": "인천국제공항선",
+    "transferLineName": "서울 도시철도 5호선+서울 도시철도 9호선+김포도시철도"
+  },
+  {
+    "id": "A04",
+    "name": "디지털미디어시티",
+    "lat": 37.57682544,
+    "lng": 126.8990205,
+    "lineName": "인천국제공항선",
+    "transferLineName": "서울 도시철도 6호선+경의중앙선"
+  },
+  {
+    "id": "A042",
+    "name": "마곡나루",
+    "lat": 37.56581914,
+    "lng": 126.8276358,
+    "lineName": "인천국제공항선",
+    "transferLineName": "서울 도시철도 9호선"
+  },
+  {
+    "id": "A01",
+    "name": "서울",
+    "lat": 37.54911784,
+    "lng": 126.9704643,
+    "lineName": "인천국제공항선",
+    "transferLineName": "서울 도시철도 1호선+서울 도시철도 4호선+경의선"
+  },
+  {
+    "id": "A072",
+    "name": "영종",
+    "lat": 37.51209814,
+    "lng": 126.5242471,
+    "lineName": "인천국제공항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "A08",
+    "name": "운서",
+    "lat": 37.49284463,
+    "lng": 126.4936619,
+    "lineName": "인천국제공항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "A10",
+    "name": "인천공항1터미널",
+    "lat": 37.44760672,
+    "lng": 126.4523433,
+    "lineName": "인천국제공항선",
+    "transferLineName": "자기부상철도"
+  },
+  {
+    "id": "A11",
+    "name": "인천공항2터미널",
+    "lat": 37.45826874,
+    "lng": 126.4275356,
+    "lineName": "인천국제공항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "A071",
+    "name": "청라국제도시",
+    "lat": 37.55609897,
+    "lng": 126.6287254,
+    "lineName": "인천국제공항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "A03",
+    "name": "홍대입구",
+    "lat": 37.55774103,
+    "lng": 126.9264939,
+    "lineName": "인천국제공항선",
+    "transferLineName": "서울 도시철도 2호선+경의중앙선"
+  },
+  {
+    "id": "1873",
+    "name": "고색역",
+    "lat": 37.248829,
+    "lng": 126.977899,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1757",
+    "name": "고잔역",
+    "lat": 37.316821,
+    "lng": 126.823094,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1883",
+    "name": "남동인더스파크역",
+    "lat": 37.407868,
+    "lng": 126.695613,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1760",
+    "name": "능길역",
+    "lat": 37.337488,
+    "lng": 126.767306,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1878",
+    "name": "달월역",
+    "lat": 37.379993,
+    "lng": 126.745431,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1877",
+    "name": "사리역",
+    "lat": 37.289982,
+    "lng": 126.856872,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1880",
+    "name": "소래포구역",
+    "lat": 37.400963,
+    "lng": 126.733533,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1886",
+    "name": "송도역",
+    "lat": 37.417769,
+    "lng": 126.678991,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1889",
+    "name": "숭의역",
+    "lat": 37.460891,
+    "lng": 126.638035,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1890",
+    "name": "신포역",
+    "lat": 37.468442,
+    "lng": 126.624509,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1759",
+    "name": "안산역",
+    "lat": 37.327006,
+    "lng": 126.788748,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1876",
+    "name": "야목역",
+    "lat": 37.261011,
+    "lng": 126.88429,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1875",
+    "name": "어천역",
+    "lat": 37.250076,
+    "lng": 126.908805,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1885",
+    "name": "연수역",
+    "lat": 37.417769,
+    "lng": 126.678991,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1874",
+    "name": "오목천역",
+    "lat": 37.243011,
+    "lng": 126.9636354,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1762",
+    "name": "오이도역",
+    "lat": 37.361773,
+    "lng": 126.738437,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1884",
+    "name": "원인재역",
+    "lat": 37.412921,
+    "lng": 126.686952,
+    "lineName": "수인선",
+    "transferLineName": "인천지하철 1호선"
+  },
+  {
+    "id": "1879",
+    "name": "월곶역",
+    "lat": 37.39189,
+    "lng": 126.742741,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1881",
+    "name": "인천논현역",
+    "lat": 37.400641,
+    "lng": 126.722495,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1891",
+    "name": "인천역",
+    "lat": 37.476364,
+    "lng": 126.616936,
+    "lineName": "수인선",
+    "transferLineName": "경인선"
+  },
+  {
+    "id": "1888",
+    "name": "인하대역",
+    "lat": 37.448191,
+    "lng": 126.649832,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1761",
+    "name": "정왕역",
+    "lat": 37.351816,
+    "lng": 126.742844,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1756",
+    "name": "중앙역",
+    "lat": 37.316055,
+    "lng": 126.838532,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1758",
+    "name": "초지역",
+    "lat": 37.320583,
+    "lng": 126.806151,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선, 서해선"
+  },
+  {
+    "id": "1755",
+    "name": "한대앞역",
+    "lat": 37.309685,
+    "lng": 126.853656,
+    "lineName": "수인선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1882",
+    "name": "호구포역",
+    "lat": 37.401622,
+    "lng": 126.708682,
+    "lineName": "수인선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0128",
+    "name": "동대문",
+    "lat": 37.565145,
+    "lng": 127.00789,
+    "lineName": "1호선",
+    "transferLineName": "수도권  광역철도 4호선"
+  },
+  {
+    "id": "0127",
+    "name": "동묘앞",
+    "lat": 37.573265,
+    "lng": 127.016459,
+    "lineName": "1호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0133",
+    "name": "서울역",
+    "lat": 37.55315,
+    "lng": 126.972533,
+    "lineName": "1호선",
+    "transferLineName": "수도권  광역철도 4호선+수도권  광역철도 경의중앙+수도권  광역철도 공항"
+  },
+  {
+    "id": "0132",
+    "name": "시청",
+    "lat": 37.56359,
+    "lng": 126.975407,
+    "lineName": "1호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0126",
+    "name": "신설동",
+    "lat": 37.576117,
+    "lng": 127.02471,
+    "lineName": "1호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0125",
+    "name": "제기동",
+    "lat": 37.578116,
+    "lng": 127.034902,
+    "lineName": "1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0131",
+    "name": "종각",
+    "lat": 37.570203,
+    "lng": 126.983116,
+    "lineName": "1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0130",
+    "name": "종로3가",
+    "lat": 37.570429,
+    "lng": 126.992095,
+    "lineName": "1호선",
+    "transferLineName": "수도권  광역철도 3호선+수도권  도시철도 5호선"
+  },
+  {
+    "id": "0129",
+    "name": "종로5가",
+    "lat": 37.570971,
+    "lng": 127.0019,
+    "lineName": "1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0124",
+    "name": "청량리(서울시립대입구)",
+    "lat": 37.580148,
+    "lng": 127.045063,
+    "lineName": "1호선",
+    "transferLineName": "수도권  광역철도 분당+수도권  광역철도 경춘+수도권  광역철도 경의중앙"
+  },
+  {
+    "id": "1702",
+    "name": "가산디지털단지역",
+    "lat": 37.481568,
+    "lng": 126.882628,
+    "lineName": "경부선",
+    "transferLineName": "수도권 도시철도 7호선"
+  },
+  {
+    "id": "1705",
+    "name": "관악역",
+    "lat": 37.419578,
+    "lng": 126.908476,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1750",
+    "name": "광명역",
+    "lat": 37.415995,
+    "lng": 126.884523,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1701",
+    "name": "구로역",
+    "lat": 37.503178,
+    "lng": 126.882037,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1709",
+    "name": "군포역",
+    "lat": 37.353732,
+    "lng": 126.948517,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1708",
+    "name": "금정역",
+    "lat": 37.371957,
+    "lng": 126.943611,
+    "lineName": "경부선",
+    "transferLineName": "안산과천선"
+  },
+  {
+    "id": "1703",
+    "name": "금천구청역",
+    "lat": 37.45576,
+    "lng": 126.894344,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1002",
+    "name": "남영역",
+    "lat": 37.540597,
+    "lng": 126.971171,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1004",
+    "name": "노량진역",
+    "lat": 37.514072,
+    "lng": 126.941671,
+    "lineName": "경부선",
+    "transferLineName": "서울 도시철도 9호선"
+  },
+  {
+    "id": "1729",
+    "name": "당정역",
+    "lat": 37.34338,
+    "lng": 126.948388,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1005",
+    "name": "대방역",
+    "lat": 37.513392,
+    "lng": 126.926407,
+    "lineName": "경부선",
+    "transferLineName": "수도권 경량도시철도 신림선"
+  },
+  {
+    "id": "1714",
+    "name": "독산역",
+    "lat": 37.465994,
+    "lng": 126.889508,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1727",
+    "name": "두정역",
+    "lat": 36.833791,
+    "lng": 127.148905,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1707",
+    "name": "명학역",
+    "lat": 37.384435,
+    "lng": 126.935579,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1716",
+    "name": "병점역",
+    "lat": 37.206821,
+    "lng": 127.033268,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1749",
+    "name": "서동탄역",
+    "lat": 37.195675,
+    "lng": 127.051893,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1722",
+    "name": "서정리역",
+    "lat": 37.056459,
+    "lng": 127.052844,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1704",
+    "name": "석수역",
+    "lat": 37.435161,
+    "lng": 126.902233,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1711",
+    "name": "성균관대역",
+    "lat": 37.300344,
+    "lng": 126.970861,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1725",
+    "name": "성환역",
+    "lat": 36.915781,
+    "lng": 127.127007,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1715",
+    "name": "세류역",
+    "lat": 37.244102,
+    "lng": 127.013772,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1717",
+    "name": "세마역",
+    "lat": 37.187288,
+    "lng": 127.043279,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1721",
+    "name": "송탄역",
+    "lat": 37.075376,
+    "lng": 127.054397,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1713",
+    "name": "수원역",
+    "lat": 37.266162,
+    "lng": 126.999821,
+    "lineName": "경부선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1032",
+    "name": "신길역",
+    "lat": 37.517018,
+    "lng": 126.917743,
+    "lineName": "경부선",
+    "transferLineName": "수도권 도시철도 5호선"
+  },
+  {
+    "id": "1007",
+    "name": "신도림역",
+    "lat": 37.508983,
+    "lng": 126.891513,
+    "lineName": "경부선",
+    "transferLineName": "수도권 도시철도 2호선"
+  },
+  {
+    "id": "1706",
+    "name": "안양역",
+    "lat": 37.401929,
+    "lng": 126.922647,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1006",
+    "name": "영등포역",
+    "lat": 37.515756,
+    "lng": 126.907411,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1718",
+    "name": "오산대역",
+    "lat": 37.169401,
+    "lng": 127.063081,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1719",
+    "name": "오산역",
+    "lat": 37.145472,
+    "lng": 127.066708,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1003",
+    "name": "용산역",
+    "lat": 37.52989,
+    "lng": 126.964775,
+    "lineName": "경부선",
+    "transferLineName": "경의중앙선"
+  },
+  {
+    "id": "1710",
+    "name": "의왕역",
+    "lat": 37.320648,
+    "lng": 126.948099,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1726",
+    "name": "직산역",
+    "lat": 36.870921,
+    "lng": 127.143774,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1720",
+    "name": "진위역",
+    "lat": 37.109771,
+    "lng": 127.062342,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1724",
+    "name": "평택역",
+    "lat": 36.990559,
+    "lng": 127.085496,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1723",
+    "name": "평택지제역",
+    "lat": 37.018822,
+    "lng": 127.070269,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1712",
+    "name": "화서역",
+    "lat": 37.28399,
+    "lng": 126.989581,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1907",
+    "name": "가능역",
+    "lat": 37.748362,
+    "lng": 127.044251,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1019",
+    "name": "광운대역",
+    "lat": 37.623635,
+    "lng": 127.061975,
+    "lineName": "경원선",
+    "transferLineName": "경춘선"
+  },
+  {
+    "id": "1908",
+    "name": "녹양역",
+    "lat": 37.759416,
+    "lng": 127.042272,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1021",
+    "name": "녹천역",
+    "lat": 37.644599,
+    "lng": 127.051406,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1910",
+    "name": "덕계역",
+    "lat": 37.818761,
+    "lng": 127.056676,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1911",
+    "name": "덕정역",
+    "lat": 37.843216,
+    "lng": 127.061511,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1903",
+    "name": "도봉산역",
+    "lat": 37.689603,
+    "lng": 127.046347,
+    "lineName": "경원선",
+    "transferLineName": "수도권 도시철도 7호선"
+  },
+  {
+    "id": "1902",
+    "name": "도봉역",
+    "lat": 37.679441,
+    "lng": 127.045521,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1915",
+    "name": "동두천역",
+    "lat": 37.927569,
+    "lng": 127.054825,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1913",
+    "name": "동두천중앙역",
+    "lat": 37.901818,
+    "lng": 127.056528,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1904",
+    "name": "망월사역",
+    "lat": 37.710499,
+    "lng": 127.047361,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1901",
+    "name": "방학역",
+    "lat": 37.667471,
+    "lng": 127.044295,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1914",
+    "name": "보산역",
+    "lat": 37.914268,
+    "lng": 127.057134,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1009",
+    "name": "서빙고역",
+    "lat": 37.51961,
+    "lng": 126.988358,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1018",
+    "name": "석계역",
+    "lat": 37.615206,
+    "lng": 127.065594,
+    "lineName": "경원선",
+    "transferLineName": "6호선"
+  },
+  {
+    "id": "1916",
+    "name": "소요산역",
+    "lat": 37.948608,
+    "lng": 127.061007,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1017",
+    "name": "신이문역",
+    "lat": 37.601829,
+    "lng": 127.067347,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1909",
+    "name": "양주역",
+    "lat": 37.774281,
+    "lng": 127.044719,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1919",
+    "name": "연천역",
+    "lat": 38.103244,
+    "lng": 127.074059,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1011",
+    "name": "옥수역",
+    "lat": 37.540514,
+    "lng": 127.018698,
+    "lineName": "경원선",
+    "transferLineName": "수도권 광역철도 3호선"
+  },
+  {
+    "id": "1013",
+    "name": "왕십리역",
+    "lat": 37.561128,
+    "lng": 127.035505,
+    "lineName": "경원선",
+    "transferLineName": "수도권 도시철도 2호선, 수도권 도시철도 5호선, 분당선"
+  },
+  {
+    "id": "1016",
+    "name": "외대앞역",
+    "lat": 37.596157,
+    "lng": 127.063572,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1003",
+    "name": "용산역",
+    "lat": 37.52989,
+    "lng": 126.964775,
+    "lineName": "경원선",
+    "transferLineName": "경부선"
+  },
+  {
+    "id": "1020",
+    "name": "월계역",
+    "lat": 37.633114,
+    "lng": 127.058835,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1012",
+    "name": "응봉역",
+    "lat": 37.550433,
+    "lng": 127.034824,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1906",
+    "name": "의정부역",
+    "lat": 37.73873,
+    "lng": 127.045891,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1008",
+    "name": "이촌역",
+    "lat": 37.522476,
+    "lng": 126.973816,
+    "lineName": "경원선",
+    "transferLineName": "수도권 광역철도 4호선"
+  },
+  {
+    "id": "1918",
+    "name": "전곡역",
+    "lat": 38.025415,
+    "lng": 127.071113,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1912",
+    "name": "지행역",
+    "lat": 37.892361,
+    "lng": 127.055734,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1022",
+    "name": "창동역",
+    "lat": 37.653181,
+    "lng": 127.047663,
+    "lineName": "경원선",
+    "transferLineName": "수도권 광역철도 4호선"
+  },
+  {
+    "id": "1014",
+    "name": "청량리역",
+    "lat": 37.580543,
+    "lng": 127.046516,
+    "lineName": "경원선",
+    "transferLineName": "1호선, 경춘선, 분당선"
+  },
+  {
+    "id": "1917",
+    "name": "청산역",
+    "lat": 37.995138,
+    "lng": 127.074097,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1010",
+    "name": "한남역",
+    "lat": 37.529361,
+    "lng": 127.008984,
+    "lineName": "경원선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1015",
+    "name": "회기역",
+    "lat": 37.589802,
+    "lng": 127.057936,
+    "lineName": "경원선",
+    "transferLineName": "경의중앙선, 경춘선"
+  },
+  {
+    "id": "1905",
+    "name": "회룡역",
+    "lat": 37.724037,
+    "lng": 127.047319,
+    "lineName": "경원선",
+    "transferLineName": "의정부"
+  },
+  {
+    "id": "1451",
+    "name": "경마공원역",
+    "lat": 37.443987,
+    "lng": 127.007899,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1757",
+    "name": "고잔역",
+    "lat": 37.316821,
+    "lng": 126.823094,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1453",
+    "name": "과천역",
+    "lat": 37.433205,
+    "lng": 126.996404,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1708",
+    "name": "금정역",
+    "lat": 37.371957,
+    "lng": 126.943611,
+    "lineName": "안산과천선",
+    "transferLineName": "경부선"
+  },
+  {
+    "id": "1760",
+    "name": "능길역",
+    "lat": 37.337488,
+    "lng": 126.767306,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1452",
+    "name": "대공원역",
+    "lat": 37.435724,
+    "lng": 127.006474,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1752",
+    "name": "대야미역",
+    "lat": 37.328304,
+    "lng": 126.917161,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1753",
+    "name": "반월역",
+    "lat": 37.312244,
+    "lng": 126.903684,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1457",
+    "name": "범계역",
+    "lat": 37.389783,
+    "lng": 126.950752,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1751",
+    "name": "산본역",
+    "lat": 37.358019,
+    "lng": 126.932969,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1754",
+    "name": "상록수역",
+    "lat": 37.302845,
+    "lng": 126.866533,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1450",
+    "name": "선바위역",
+    "lat": 37.451854,
+    "lng": 127.002164,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1763",
+    "name": "수리산역",
+    "lat": 37.350297,
+    "lng": 126.925537,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1759",
+    "name": "안산역",
+    "lat": 37.327006,
+    "lng": 126.788748,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1762",
+    "name": "오이도역",
+    "lat": 37.361773,
+    "lng": 126.738437,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1455",
+    "name": "인덕원역",
+    "lat": 37.401901,
+    "lng": 126.976818,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1454",
+    "name": "정부과천청사역",
+    "lat": 37.426445,
+    "lng": 126.989802,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1761",
+    "name": "정왕역",
+    "lat": 37.351816,
+    "lng": 126.742844,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1756",
+    "name": "중앙역",
+    "lat": 37.316055,
+    "lng": 126.838532,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "1758",
+    "name": "초지역",
+    "lat": 37.320583,
+    "lng": 126.806151,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선, 서해선"
+  },
+  {
+    "id": "1456",
+    "name": "평촌역",
+    "lat": 37.394346,
+    "lng": 126.963881,
+    "lineName": "안산과천선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1755",
+    "name": "한대앞역",
+    "lat": 37.309685,
+    "lng": 126.853656,
+    "lineName": "안산과천선",
+    "transferLineName": "수인선"
+  },
+  {
+    "id": "0408",
+    "name": "별내별가람역",
+    "lat": 37.667833,
+    "lng": 127.116167,
+    "lineName": "진접선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0406",
+    "name": "오남역",
+    "lat": 37.705556,
+    "lng": 127.192944,
+    "lineName": "진접선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0405",
+    "name": "진접역",
+    "lat": 37.720472,
+    "lng": 127.203167,
+    "lineName": "진접선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1851",
+    "name": "가천대역",
+    "lat": 37.448784,
+    "lng": 127.126677,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1849",
+    "name": "강남구청역",
+    "lat": 37.517172,
+    "lng": 127.041275,
+    "lineName": "분당선",
+    "transferLineName": "수도권 도시철도 7호선"
+  },
+  {
+    "id": "1027",
+    "name": "개포동역",
+    "lat": 37.489112,
+    "lng": 127.066027,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1026",
+    "name": "구룡역",
+    "lat": 37.486985,
+    "lng": 127.059496,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1863",
+    "name": "구성역",
+    "lat": 37.299013,
+    "lng": 127.105664,
+    "lineName": "분당선",
+    "transferLineName": "GTX-A"
+  },
+  {
+    "id": "1865",
+    "name": "기흥역",
+    "lat": 37.275657,
+    "lng": 127.115944,
+    "lineName": "분당선",
+    "transferLineName": "수도권 경량도시철도 에버라인"
+  },
+  {
+    "id": "1028",
+    "name": "대모산입구역",
+    "lat": 37.491347,
+    "lng": 127.072702,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1025",
+    "name": "도곡역",
+    "lat": 37.490914,
+    "lng": 127.055393,
+    "lineName": "분당선",
+    "transferLineName": "수도권 광역철도 3호선"
+  },
+  {
+    "id": "1869",
+    "name": "망포역",
+    "lat": 37.245793,
+    "lng": 127.057367,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1872",
+    "name": "매교역",
+    "lat": 37.265502,
+    "lng": 127.015657,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1870",
+    "name": "매탄권선역",
+    "lat": 37.252458,
+    "lng": 127.040824,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1853",
+    "name": "모란역",
+    "lat": 37.432124,
+    "lng": 127.129064,
+    "lineName": "분당선",
+    "transferLineName": "수도권 도시철도 8호선"
+  },
+  {
+    "id": "1858",
+    "name": "미금역",
+    "lat": 37.350078,
+    "lng": 127.108952,
+    "lineName": "분당선",
+    "transferLineName": "신분당선"
+  },
+  {
+    "id": "1861",
+    "name": "보정역",
+    "lat": 37.31274,
+    "lng": 127.108219,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1031",
+    "name": "복정역",
+    "lat": 37.469753,
+    "lng": 127.126627,
+    "lineName": "분당선",
+    "transferLineName": "수도권 도시철도 8호선"
+  },
+  {
+    "id": "1866",
+    "name": "상갈역",
+    "lat": 37.261797,
+    "lng": 127.108718,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1847",
+    "name": "서울숲역",
+    "lat": 37.543647,
+    "lng": 127.044686,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1855",
+    "name": "서현역",
+    "lat": 37.384931,
+    "lng": 127.123249,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1023",
+    "name": "선릉역",
+    "lat": 37.504479,
+    "lng": 127.048941,
+    "lineName": "분당선",
+    "transferLineName": "수도권 도시철도 2호선"
+  },
+  {
+    "id": "1850",
+    "name": "선정릉역",
+    "lat": 37.510275,
+    "lng": 127.043817,
+    "lineName": "분당선",
+    "transferLineName": "서울 도시철도 9호선"
+  },
+  {
+    "id": "1856",
+    "name": "수내역",
+    "lat": 37.378435,
+    "lng": 127.114216,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1030",
+    "name": "수서역",
+    "lat": 37.487633,
+    "lng": 127.101118,
+    "lineName": "분당선",
+    "transferLineName": "수도권 광역철도 3호선, GTX-A"
+  },
+  {
+    "id": "1871",
+    "name": "수원시청역",
+    "lat": 37.261941,
+    "lng": 127.030736,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1846",
+    "name": "수원역(분당)",
+    "lat": 37.266162,
+    "lng": 126.999821,
+    "lineName": "분당선",
+    "transferLineName": "경부선"
+  },
+  {
+    "id": "1864",
+    "name": "신갈역",
+    "lat": 37.286127,
+    "lng": 127.111311,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1848",
+    "name": "압구정로데오역",
+    "lat": 37.527385,
+    "lng": 127.040555,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1854",
+    "name": "야탑역",
+    "lat": 37.41132,
+    "lng": 127.128661,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1868",
+    "name": "영통역",
+    "lat": 37.251521,
+    "lng": 127.071341,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1859",
+    "name": "오리역",
+    "lat": 37.339832,
+    "lng": 127.108985,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1013",
+    "name": "왕십리역",
+    "lat": 37.561128,
+    "lng": 127.035505,
+    "lineName": "분당선",
+    "transferLineName": "수도권 도시철도 2호선, 수도권 도시철도 5호선, 경의중앙선"
+  },
+  {
+    "id": "1860",
+    "name": "이매역",
+    "lat": 37.395846,
+    "lng": 127.128272,
+    "lineName": "분당선",
+    "transferLineName": "경강선"
+  },
+  {
+    "id": "1857",
+    "name": "정자역",
+    "lat": 37.366037,
+    "lng": 127.108091,
+    "lineName": "분당선",
+    "transferLineName": "신분당선"
+  },
+  {
+    "id": "1862",
+    "name": "죽전역",
+    "lat": 37.324575,
+    "lng": 127.107385,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1867",
+    "name": "청명역",
+    "lat": 37.259485,
+    "lng": 127.078945,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1852",
+    "name": "태평역",
+    "lat": 37.439842,
+    "lng": 127.127746,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1024",
+    "name": "한티역",
+    "lat": 37.496208,
+    "lng": 127.052883,
+    "lineName": "분당선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1953",
+    "name": "대곡역",
+    "lat": 37.631629,
+    "lng": 126.811025,
+    "lineName": "일산선",
+    "transferLineName": "경의선, 서해선, GTX-A"
+  },
+  {
+    "id": "1958",
+    "name": "대화역",
+    "lat": 37.675883,
+    "lng": 126.747756,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1955",
+    "name": "마두역",
+    "lat": 37.652185,
+    "lng": 126.777641,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1954",
+    "name": "백석역",
+    "lat": 37.642973,
+    "lng": 126.788109,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1950",
+    "name": "삼송역",
+    "lat": 37.653096,
+    "lng": 126.895559,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1951",
+    "name": "원당역",
+    "lat": 37.653103,
+    "lng": 126.842891,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1948",
+    "name": "원흥역",
+    "lat": 37.650709,
+    "lng": 126.873239,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1956",
+    "name": "정발산역",
+    "lat": 37.659709,
+    "lng": 126.773254,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1957",
+    "name": "주엽역",
+    "lat": 37.670138,
+    "lng": 126.761232,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1949",
+    "name": "지축역",
+    "lat": 37.648114,
+    "lng": 126.913746,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1952",
+    "name": "화정역",
+    "lat": 37.637837,
+    "lng": 126.832503,
+    "lineName": "일산선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1265",
+    "name": "가좌역",
+    "lat": 37.568611,
+    "lng": 126.914841,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1269",
+    "name": "강매역",
+    "lat": 37.612596,
+    "lng": 126.845437,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1272",
+    "name": "곡산역",
+    "lat": 37.645729,
+    "lng": 126.801877,
+    "lineName": "경의중앙선",
+    "transferLineName": "서해선"
+  },
+  {
+    "id": "1262",
+    "name": "공덕역",
+    "lat": 37.542611,
+    "lng": 126.952134,
+    "lineName": "경의중앙선",
+    "transferLineName": "수도권 도시철도 5호선, 수도권 도시철도 6호선, 인천국제공항선"
+  },
+  {
+    "id": "1019",
+    "name": "광운대역",
+    "lat": 37.623635,
+    "lng": 127.061975,
+    "lineName": "경의중앙선",
+    "transferLineName": "경원선"
+  },
+  {
+    "id": "1205",
+    "name": "구리역",
+    "lat": 37.503178,
+    "lng": 126.882037,
+    "lineName": "경의중앙선",
+    "transferLineName": "수도권 도시철도 8호선"
+  },
+  {
+    "id": "1214",
+    "name": "국수역",
+    "lat": 37.516171,
+    "lng": 127.399402,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1279",
+    "name": "금릉역",
+    "lat": 37.751295,
+    "lng": 126.765401,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1280",
+    "name": "금촌역",
+    "lat": 37.766106,
+    "lng": 126.774515,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1271",
+    "name": "능곡역",
+    "lat": 37.618741,
+    "lng": 126.820845,
+    "lineName": "경의중앙선",
+    "transferLineName": "서해선"
+  },
+  {
+    "id": "1953",
+    "name": "대곡역",
+    "lat": 37.631629,
+    "lng": 126.811025,
+    "lineName": "경의중앙선",
+    "transferLineName": "일산선, 서해선, GTX-A"
+  },
+  {
+    "id": "1208",
+    "name": "덕소역",
+    "lat": 37.586892,
+    "lng": 127.208835,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1206",
+    "name": "도농역",
+    "lat": 37.608756,
+    "lng": 127.161105,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1209",
+    "name": "도심역",
+    "lat": 37.579628,
+    "lng": 127.222798,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1266",
+    "name": "디지털미디어시티역",
+    "lat": 37.577964,
+    "lng": 126.900421,
+    "lineName": "경의중앙선",
+    "transferLineName": "6호선, 인천국제공항선"
+  },
+  {
+    "id": "1203",
+    "name": "망우역",
+    "lat": 37.599288,
+    "lng": 127.092318,
+    "lineName": "경의중앙선",
+    "transferLineName": "경춘선"
+  },
+  {
+    "id": "1284",
+    "name": "문산역",
+    "lat": 37.854565,
+    "lng": 126.787531,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1273",
+    "name": "백마역",
+    "lat": 37.658346,
+    "lng": 126.794401,
+    "lineName": "경의중앙선",
+    "transferLineName": "서해선"
+  },
+  {
+    "id": "1202",
+    "name": "상봉역",
+    "lat": 37.595254,
+    "lng": 127.085853,
+    "lineName": "경의중앙선",
+    "transferLineName": "수도권 도시철도 7호선, 경춘선"
+  },
+  {
+    "id": "1263",
+    "name": "서강대역",
+    "lat": 37.552132,
+    "lng": 126.935389,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1251",
+    "name": "서울역(경의선)",
+    "lat": 37.554713,
+    "lng": 126.970787,
+    "lineName": "경의중앙선",
+    "transferLineName": "1호선, 4호선, 인천국제공항선, GTX-A"
+  },
+  {
+    "id": "1267",
+    "name": "수색역",
+    "lat": 37.580855,
+    "lng": 126.895681,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1213",
+    "name": "신원역",
+    "lat": 37.525921,
+    "lng": 127.372745,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1252",
+    "name": "신촌역",
+    "lat": 37.559768,
+    "lng": 126.942308,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1215",
+    "name": "아신역",
+    "lat": 37.513954,
+    "lng": 127.443238,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1277",
+    "name": "야당역",
+    "lat": 37.712749,
+    "lng": 126.761535,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1212",
+    "name": "양수역",
+    "lat": 37.545998,
+    "lng": 127.328948,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1204",
+    "name": "양원역",
+    "lat": 36.963729,
+    "lng": 129.091321,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1207",
+    "name": "양정역",
+    "lat": 37.604269,
+    "lng": 127.194602,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1217",
+    "name": "양평역",
+    "lat": 37.492674,
+    "lng": 127.491858,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1216",
+    "name": "오빈역",
+    "lat": 37.506061,
+    "lng": 127.474053,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1219",
+    "name": "용문역",
+    "lat": 37.482085,
+    "lng": 127.594251,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1211",
+    "name": "운길산역",
+    "lat": 37.554659,
+    "lng": 127.310089,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1278",
+    "name": "운정역",
+    "lat": 37.725441,
+    "lng": 126.767076,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1286",
+    "name": "운천역",
+    "lat": 37.880608,
+    "lng": 126.7676137,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1218",
+    "name": "원덕역",
+    "lat": 37.468585,
+    "lng": 127.547468,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1282",
+    "name": "월롱역",
+    "lat": 37.796201,
+    "lng": 126.792574,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1275",
+    "name": "일산역",
+    "lat": 37.682231,
+    "lng": 126.769521,
+    "lineName": "경의중앙선",
+    "transferLineName": "서해선"
+  },
+  {
+    "id": "1285",
+    "name": "임진강역",
+    "lat": 37.888364,
+    "lng": 126.746777,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1201",
+    "name": "중랑역",
+    "lat": 37.594948,
+    "lng": 127.076152,
+    "lineName": "경의중앙선",
+    "transferLineName": "경춘선"
+  },
+  {
+    "id": "1220",
+    "name": "지평역",
+    "lat": 37.476496,
+    "lng": 127.629681,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1014",
+    "name": "청량리역",
+    "lat": 37.580543,
+    "lng": 127.046516,
+    "lineName": "경의중앙선",
+    "transferLineName": "1호선, 경의중앙선, 분당선"
+  },
+  {
+    "id": "1276",
+    "name": "탄현역",
+    "lat": 37.694114,
+    "lng": 126.761075,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1283",
+    "name": "파주역",
+    "lat": 37.815391,
+    "lng": 126.792426,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1210",
+    "name": "팔당역",
+    "lat": 37.547321,
+    "lng": 127.243896,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1274",
+    "name": "풍산역",
+    "lat": 37.672173,
+    "lng": 126.786355,
+    "lineName": "경의중앙선",
+    "transferLineName": "서해선"
+  },
+  {
+    "id": "1268",
+    "name": "한국항공대",
+    "lat": 37.637837,
+    "lng": 126.832503,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1270",
+    "name": "행신역",
+    "lat": 37.612125,
+    "lng": 126.834063,
+    "lineName": "경의중앙선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1264",
+    "name": "홍대입구역",
+    "lat": 37.55808,
+    "lng": 126.925533,
+    "lineName": "경의중앙선",
+    "transferLineName": "수도권 도시철도 2호선, 인천국제공항선"
+  },
+  {
+    "id": "1015",
+    "name": "회기역",
+    "lat": 37.589802,
+    "lng": 127.057936,
+    "lineName": "경의중앙선",
+    "transferLineName": "경원선, 경춘선"
+  },
+  {
+    "id": "1261",
+    "name": "효창공원앞역",
+    "lat": 37.539289,
+    "lng": 126.961339,
+    "lineName": "경의중앙선",
+    "transferLineName": "6호선"
+  },
+  {
+    "id": "1323",
+    "name": "가평역",
+    "lat": 37.814515,
+    "lng": 127.510693,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1312",
+    "name": "갈매역",
+    "lat": 37.634135,
+    "lng": 127.114803,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1326",
+    "name": "강촌역",
+    "lat": 37.805728,
+    "lng": 127.634054,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1324",
+    "name": "굴봉산역",
+    "lat": 37.832086,
+    "lng": 127.557732,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1316",
+    "name": "금곡역",
+    "lat": 37.637414,
+    "lng": 127.207931,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1327",
+    "name": "김유정역",
+    "lat": 37.818475,
+    "lng": 127.714302,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1328",
+    "name": "남춘천역",
+    "lat": 37.864071,
+    "lng": 127.723761,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1320",
+    "name": "대성리역",
+    "lat": 37.683909,
+    "lng": 127.379165,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1319",
+    "name": "마석역",
+    "lat": 37.652328,
+    "lng": 127.311713,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1203",
+    "name": "망우역",
+    "lat": 37.599288,
+    "lng": 127.092318,
+    "lineName": "경춘선",
+    "transferLineName": "경의중앙선"
+  },
+  {
+    "id": "1325",
+    "name": "백양리역",
+    "lat": 37.830881,
+    "lng": 127.589085,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1313",
+    "name": "별내역",
+    "lat": 37.642221,
+    "lng": 127.127208,
+    "lineName": "경춘선",
+    "transferLineName": "수도권 도시철도 8호선"
+  },
+  {
+    "id": "1315",
+    "name": "사릉역",
+    "lat": 37.651145,
+    "lng": 127.176839,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1322",
+    "name": "상천역",
+    "lat": 37.770405,
+    "lng": 127.4542,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1311",
+    "name": "신내역",
+    "lat": 37.612855,
+    "lng": 127.103277,
+    "lineName": "경춘선",
+    "transferLineName": "6호선"
+  },
+  {
+    "id": "1318",
+    "name": "천마산역",
+    "lat": 37.658995,
+    "lng": 127.285731,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1321",
+    "name": "청평역",
+    "lat": 37.735484,
+    "lng": 127.426541,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1329",
+    "name": "춘천역",
+    "lat": 37.884391,
+    "lng": 127.716603,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1314",
+    "name": "퇴계원역",
+    "lat": 37.648316,
+    "lng": 127.143858,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1317",
+    "name": "평내호평역",
+    "lat": 37.653229,
+    "lng": 127.244452,
+    "lineName": "경춘선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1504",
+    "name": "경기광주역",
+    "lat": 37.398974,
+    "lng": 127.253201,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1506",
+    "name": "곤지암역",
+    "lat": 37.350525,
+    "lng": 127.346186,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1509",
+    "name": "부발역",
+    "lat": 37.260411,
+    "lng": 127.490303,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1503",
+    "name": "삼동역",
+    "lat": 37.408731,
+    "lng": 127.203447,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1512",
+    "name": "성남역",
+    "lat": 37.394709,
+    "lng": 127.11949,
+    "lineName": "경강선",
+    "transferLineName": "GTX-A"
+  },
+  {
+    "id": "1510",
+    "name": "세종대왕릉역",
+    "lat": 37.293636,
+    "lng": 127.570764,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1507",
+    "name": "신둔도예촌역",
+    "lat": 37.315499,
+    "lng": 127.405251,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1511",
+    "name": "여주역",
+    "lat": 37.282881,
+    "lng": 127.628571,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1502",
+    "name": "이매역",
+    "lat": 37.394736,
+    "lng": 127.123048,
+    "lineName": "경강선",
+    "transferLineName": "분당선"
+  },
+  {
+    "id": "1508",
+    "name": "이천역",
+    "lat": 37.264222,
+    "lng": 127.442135,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1505",
+    "name": "초월역",
+    "lat": 37.373389,
+    "lng": 127.299996,
+    "lineName": "경강선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1501",
+    "name": "판교역",
+    "lat": 37.394798,
+    "lng": 127.111135,
+    "lineName": "경강선",
+    "transferLineName": "신분당선"
+  },
+  {
+    "id": "1272",
+    "name": "곡산역",
+    "lat": 37.645729,
+    "lng": 126.801877,
+    "lineName": "서해선",
+    "transferLineName": "경의선"
+  },
+  {
+    "id": "1980",
+    "name": "김포공항역",
+    "lat": 37.5621179,
+    "lng": 126.8028568,
+    "lineName": "서해선",
+    "transferLineName": "5호선, 서울 도시철도 9호선, 인천국제공항선, 김포도시철도"
+  },
+  {
+    "id": "1271",
+    "name": "능곡역",
+    "lat": 37.618741,
+    "lng": 126.820845,
+    "lineName": "서해선",
+    "transferLineName": "경의중앙선"
+  },
+  {
+    "id": "4811",
+    "name": "달미역",
+    "lat": 37.3493203,
+    "lng": 126.808218,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1953",
+    "name": "대곡역",
+    "lat": 37.631629,
+    "lng": 126.811025,
+    "lineName": "서해선",
+    "transferLineName": "일산선, 경의선, GTX-A"
+  },
+  {
+    "id": "1273",
+    "name": "백마역",
+    "lat": 37.658346,
+    "lng": 126.794401,
+    "lineName": "서해선",
+    "transferLineName": "경의선"
+  },
+  {
+    "id": "1982",
+    "name": "부천종합운동장역",
+    "lat": 37.505452,
+    "lng": 126.797498,
+    "lineName": "서해선",
+    "transferLineName": "수도권 도시철도 7호선"
+  },
+  {
+    "id": "4812",
+    "name": "선부역",
+    "lat": 37.3339083,
+    "lng": 126.810977,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4804",
+    "name": "소사역",
+    "lat": 37.482755,
+    "lng": 126.795654,
+    "lineName": "서해선",
+    "transferLineName": "경인선"
+  },
+  {
+    "id": "4805",
+    "name": "소새울역",
+    "lat": 37.4691546,
+    "lng": 126.797228,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4814",
+    "name": "시우역",
+    "lat": 37.3137673,
+    "lng": 126.798303,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4810",
+    "name": "시흥능곡역",
+    "lat": 37.3699903,
+    "lng": 126.808594,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4806",
+    "name": "시흥대야역",
+    "lat": 37.4504787,
+    "lng": 126.793142,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4809",
+    "name": "시흥시청역",
+    "lat": 37.3814109,
+    "lng": 126.805946,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4807",
+    "name": "신천역",
+    "lat": 37.4391147,
+    "lng": 126.786835,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4808",
+    "name": "신현역",
+    "lat": 37.4091399,
+    "lng": 126.78788,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4815",
+    "name": "원시역",
+    "lat": 37.3059468,
+    "lng": 126.788297,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1981",
+    "name": "원종역",
+    "lat": 37.5240628,
+    "lng": 126.8048386,
+    "lineName": "서해선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1275",
+    "name": "일산역",
+    "lat": 37.682231,
+    "lng": 126.769521,
+    "lineName": "서해선",
+    "transferLineName": "경의선"
+  },
+  {
+    "id": "4813",
+    "name": "초지역",
+    "lat": 37.320583,
+    "lng": 126.806151,
+    "lineName": "서해선",
+    "transferLineName": "수인선, 안산과천선"
+  },
+  {
+    "id": "1274",
+    "name": "풍산역",
+    "lat": 37.672173,
+    "lng": 126.786355,
+    "lineName": "서해선",
+    "transferLineName": "경의선"
+  },
+  {
+    "id": "1728",
+    "name": "천안역",
+    "lat": 36.810238,
+    "lng": 127.146417,
+    "lineName": "경부선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1405",
+    "name": "배방역",
+    "lat": 36.777541,
+    "lng": 127.052751,
+    "lineName": "장항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1401",
+    "name": "봉명역",
+    "lat": 36.801578,
+    "lng": 127.136319,
+    "lineName": "장항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1408",
+    "name": "신창(순천향대)역",
+    "lat": 36.769213,
+    "lng": 126.950129,
+    "lineName": "장항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1402",
+    "name": "쌍용(나사렛대)역",
+    "lat": 36.793745,
+    "lng": 127.121363,
+    "lineName": "장항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1403",
+    "name": "아산역",
+    "lat": 36.792195,
+    "lng": 127.105049,
+    "lineName": "장항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1407",
+    "name": "온양온천역",
+    "lat": 36.780419,
+    "lng": 127.003707,
+    "lineName": "장항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "1404",
+    "name": "탕정역",
+    "lat": 36.788272,
+    "lng": 127.080446,
+    "lineName": "장항선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S411",
+    "name": "관악산",
+    "lat": 37.46916896,
+    "lng": 126.9449548,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S407",
+    "name": "당곡",
+    "lat": 37.49003911,
+    "lng": 126.9275688,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S402",
+    "name": "대방",
+    "lat": 37.51284017,
+    "lng": 126.9253168,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "S404",
+    "name": "보라매",
+    "lat": 37.50031271,
+    "lng": 126.9204859,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": "수도권  도시철도 7호선"
+  },
+  {
+    "id": "S405",
+    "name": "보라매공원",
+    "lat": 37.49522541,
+    "lng": 126.9182588,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S406",
+    "name": "보라매병원",
+    "lat": 37.49307176,
+    "lng": 126.9238861,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S401",
+    "name": "샛강",
+    "lat": 37.51721994,
+    "lng": 126.929404,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": "수도권  도시철도 9호선"
+  },
+  {
+    "id": "S410",
+    "name": "서울대벤처타운",
+    "lat": 37.47204068,
+    "lng": 126.9339766,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S403",
+    "name": "서울지방병무청",
+    "lat": 37.50604687,
+    "lng": 126.9227834,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S409",
+    "name": "서원",
+    "lat": 37.47827336,
+    "lng": 126.9332282,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S408",
+    "name": "신림",
+    "lat": 37.48489076,
+    "lng": 126.9296099,
+    "lineName": "수도권 경량도시철도 신림선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "S112",
+    "name": "4.19민주묘지",
+    "lat": 37.64954,
+    "lng": 127.01371,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S113",
+    "name": "가오리",
+    "lat": 37.64162,
+    "lng": 127.01681,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S121",
+    "name": "보문",
+    "lat": 37.58551,
+    "lng": 127.01939,
+    "lineName": "우이신설선",
+    "transferLineName": "수도권 도시철도 6호선"
+  },
+  {
+    "id": "S118",
+    "name": "북한산보국문",
+    "lat": 37.61233,
+    "lng": 127.00816,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S110",
+    "name": "북한산우이",
+    "lat": 37.66284,
+    "lng": 127.01272,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S115",
+    "name": "삼양",
+    "lat": 37.62706,
+    "lng": 127.01817,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S116",
+    "name": "삼양사거리",
+    "lat": 37.62144,
+    "lng": 127.02049,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S120",
+    "name": "성신여대입구",
+    "lat": 37.59287,
+    "lng": 127.01656,
+    "lineName": "우이신설선",
+    "transferLineName": "수도권 광역철도 4호선"
+  },
+  {
+    "id": "S111",
+    "name": "솔밭공원",
+    "lat": 37.65607,
+    "lng": 127.01326,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S117",
+    "name": "솔샘",
+    "lat": 37.62037,
+    "lng": 127.01357,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S122",
+    "name": "신설동",
+    "lat": 37.57579,
+    "lng": 127.02361,
+    "lineName": "우이신설선",
+    "transferLineName": "수도권 광역철도 1호선"
+  },
+  {
+    "id": "S119",
+    "name": "정릉",
+    "lat": 37.60278,
+    "lng": 127.01345,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "S114",
+    "name": "화계",
+    "lat": 37.63428,
+    "lng": 127.0175,
+    "lineName": "우이신설선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0413",
+    "name": "고촌",
+    "lat": 35.23603,
+    "lng": 129.1605,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0408",
+    "name": "금사",
+    "lat": 35.21583,
+    "lng": 129.11517,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0404",
+    "name": "낙민",
+    "lat": 35.20025,
+    "lng": 129.09078,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0402",
+    "name": "동래",
+    "lat": 35.20556,
+    "lng": 129.07861,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": "부산 도시철도 1호선+부산 경량도시철도 4호선"
+  },
+  {
+    "id": "0406",
+    "name": "명장",
+    "lat": 35.20503,
+    "lng": 129.10161,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0401",
+    "name": "미남",
+    "lat": 35.20643,
+    "lng": 129.06868,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": "부산 도시철도 3호선+부산 경량도시철도 4호선"
+  },
+  {
+    "id": "0409",
+    "name": "반여농산물시장",
+    "lat": 35.21778,
+    "lng": 129.12397,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0407",
+    "name": "서동",
+    "lat": 35.21331,
+    "lng": 129.10769,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0410",
+    "name": "석대",
+    "lat": 35.21825,
+    "lng": 129.13717,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0403",
+    "name": "수안",
+    "lat": 35.20183,
+    "lng": 129.08378,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0414",
+    "name": "안평",
+    "lat": 35.23733,
+    "lng": 129.17183,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0411",
+    "name": "영산대",
+    "lat": 35.22578,
+    "lng": 129.14617,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0412",
+    "name": "윗반송",
+    "lat": 35.2325,
+    "lng": 129.15403,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0405",
+    "name": "충렬사",
+    "lat": 35.19986,
+    "lng": 129.09764,
+    "lineName": "부산 경량도시철도 4호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "Y111",
+    "name": "강남대",
+    "lat": 37.27017073,
+    "lng": 127.1260669,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y121",
+    "name": "고진",
+    "lat": 37.24463834,
+    "lng": 127.2141836,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y110",
+    "name": "기흥(백남준아트센터)",
+    "lat": 37.27545288,
+    "lng": 127.1170465,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y119",
+    "name": "김량장",
+    "lat": 37.23732377,
+    "lng": 127.1986109,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y114",
+    "name": "동백(용인세브란스)",
+    "lat": 37.26910138,
+    "lng": 127.1526906,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y123",
+    "name": "둔전",
+    "lat": 37.26721222,
+    "lng": 127.2136387,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y118",
+    "name": "명지대",
+    "lat": 37.23807629,
+    "lng": 127.1902913,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y122",
+    "name": "보평",
+    "lat": 37.25896427,
+    "lng": 127.2184808,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y116",
+    "name": "삼가",
+    "lat": 37.24205993,
+    "lng": 127.16818,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y117",
+    "name": "시청·용인대",
+    "lat": 37.23944203,
+    "lng": 127.1788851,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y113",
+    "name": "어정",
+    "lat": 37.27495132,
+    "lng": 127.1437499,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y120",
+    "name": "용인중앙시장(용인예술과학대)",
+    "lat": 37.2379113,
+    "lng": 127.2090526,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y124",
+    "name": "전대·에버랜드",
+    "lat": 37.28541327,
+    "lng": 127.219509,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y112",
+    "name": "지석",
+    "lat": 37.26973732,
+    "lng": 127.1363256,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "Y115",
+    "name": "초당",
+    "lat": 37.26080647,
+    "lng": 127.1594692,
+    "lineName": "에버라인",
+    "transferLineName": "수도권  경량도시철도 에버라인"
+  },
+  {
+    "id": "G105",
+    "name": "걸포북변역",
+    "lat": 37.631639,
+    "lng": 126.70575,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G108",
+    "name": "고촌역",
+    "lat": 37.60125,
+    "lng": 126.770361,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G101",
+    "name": "구래역",
+    "lat": 37.645354,
+    "lng": 126.6285,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G109",
+    "name": "김포공항역",
+    "lat": 37.5625,
+    "lng": 126.800833,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G102",
+    "name": "마산역",
+    "lat": 37.640606,
+    "lng": 126.643944,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G106",
+    "name": "사우역",
+    "lat": 37.620361,
+    "lng": 126.719722,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G100",
+    "name": "양촌역",
+    "lat": 37.641639,
+    "lng": 126.614694,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G104",
+    "name": "운양역",
+    "lat": 37.653861,
+    "lng": 126.683833,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G103",
+    "name": "장기역",
+    "lat": 37.644028,
+    "lng": 126.669,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "G107",
+    "name": "풍무역",
+    "lat": 37.612333,
+    "lng": 126.732583,
+    "lineName": "김포도시철도",
+    "transferLineName": ""
+  },
+  {
+    "id": "U120",
+    "name": "경기도청북부청사",
+    "lat": 37.75073213,
+    "lng": 127.0714795,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U113",
+    "name": "경전철의정부",
+    "lat": 37.73729974,
+    "lng": 127.043321,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U122",
+    "name": "곤제",
+    "lat": 37.75054343,
+    "lng": 127.0838651,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U118",
+    "name": "동오",
+    "lat": 37.74519123,
+    "lng": 127.05703,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U110",
+    "name": "발곡",
+    "lat": 37.275361,
+    "lng": 127.008569,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U112",
+    "name": "범골",
+    "lat": 37.7287279,
+    "lng": 127.0437202,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U119",
+    "name": "새말",
+    "lat": 37.74889941,
+    "lng": 127.063869,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U124",
+    "name": "송산",
+    "lat": 37.7371698,
+    "lng": 127.0872755,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U123",
+    "name": "어룡",
+    "lat": 37.74272184,
+    "lng": 127.0852045,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U114",
+    "name": "의정부시청",
+    "lat": 37.73924874,
+    "lng": 127.034854,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U117",
+    "name": "의정부중앙",
+    "lat": 37.74371903,
+    "lng": 127.0496332,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U125",
+    "name": "탑석",
+    "lat": 37.73355362,
+    "lng": 127.0889064,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U111",
+    "name": "회룡",
+    "lat": 37.72505255,
+    "lng": 127.0467864,
+    "lineName": "의정부",
+    "transferLineName": "의정부+서울 광역철도 1호선"
+  },
+  {
+    "id": "U121",
+    "name": "효자",
+    "lat": 37.75398452,
+    "lng": 127.0773155,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "U115",
+    "name": "흥선",
+    "lat": 37.74322487,
+    "lng": 127.0371765,
+    "lineName": "의정부",
+    "transferLineName": ""
+  },
+  {
+    "id": "0021",
+    "name": "가야대",
+    "lat": 35.26672721,
+    "lng": 128.8650703,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0004",
+    "name": "공항",
+    "lat": 35.17190681,
+    "lng": 128.9485868,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0002",
+    "name": "괘법르네시떼",
+    "lat": 35.1632616,
+    "lng": 128.9776836,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0012",
+    "name": "김해대학",
+    "lat": 35.2289958,
+    "lng": 128.9156126,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0014",
+    "name": "김해시청",
+    "lat": 35.22710304,
+    "lng": 128.8904107,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0009",
+    "name": "대사",
+    "lat": 35.21765721,
+    "lng": 128.9384172,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0007",
+    "name": "대저",
+    "lat": 35.21306614,
+    "lng": 128.9605622,
+    "lineName": "부산김해경전철",
+    "transferLineName": "부산김해경전철+부산 도시철도 3호선"
+  },
+  {
+    "id": "0005",
+    "name": "덕두",
+    "lat": 35.18200034,
+    "lng": 128.9541983,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0006",
+    "name": "등구",
+    "lat": 35.19614342,
+    "lng": 128.963599,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0018",
+    "name": "박물관",
+    "lat": 35.24006467,
+    "lng": 128.8718628,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0016",
+    "name": "봉황",
+    "lat": 35.22726757,
+    "lng": 128.8743069,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0015",
+    "name": "부원",
+    "lat": 35.22646624,
+    "lng": 128.8838997,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0010",
+    "name": "불암",
+    "lat": 35.2221626,
+    "lng": 128.9278931,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0001",
+    "name": "사상",
+    "lat": 35.1623018,
+    "lng": 128.9859408,
+    "lineName": "부산김해경전철",
+    "transferLineName": "부산김해경전철+부산 도시철도 2호선"
+  },
+  {
+    "id": "0003",
+    "name": "서부산유통지구",
+    "lat": 35.16640204,
+    "lng": 128.9548881,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0017",
+    "name": "수로왕릉",
+    "lat": 35.2328215,
+    "lng": 128.8721409,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0019",
+    "name": "연지공원",
+    "lat": 35.24965763,
+    "lng": 128.8692908,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0013",
+    "name": "인제대",
+    "lat": 35.22809947,
+    "lng": 128.901736,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0020",
+    "name": "장신대",
+    "lat": 35.25955642,
+    "lng": 128.8671142,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0011",
+    "name": "지내",
+    "lat": 35.2275007,
+    "lng": 128.9237213,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0008",
+    "name": "평강",
+    "lat": 35.21425671,
+    "lng": 128.9508849,
+    "lineName": "부산김해경전철",
+    "transferLineName": ""
+  },
+  {
+    "id": "0222",
+    "name": "강남",
+    "lat": 37.497958,
+    "lng": 127.027539,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 신분당선"
+  },
+  {
+    "id": "0214",
+    "name": "강변(동서울터미널)",
+    "lat": 37.535161,
+    "lng": 127.094684,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0212",
+    "name": "건대입구",
+    "lat": 37.540408,
+    "lng": 127.069231,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 7호선"
+  },
+  {
+    "id": "0223",
+    "name": "교대(법원·검찰청)",
+    "lat": 37.493957,
+    "lng": 127.014631,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0232",
+    "name": "구로디지털단지",
+    "lat": 37.485005,
+    "lng": 126.902626,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0213",
+    "name": "구의(광진구청)",
+    "lat": 37.536857,
+    "lng": 127.085024,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0227",
+    "name": "낙성대(강감찬)",
+    "lat": 37.47693,
+    "lng": 126.963783,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0237",
+    "name": "당산",
+    "lat": 37.533877,
+    "lng": 126.902011,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 9호선"
+  },
+  {
+    "id": "0233",
+    "name": "대림(구로구청)",
+    "lat": 37.492426,
+    "lng": 126.895293,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 7호선"
+  },
+  {
+    "id": "0205",
+    "name": "동대문역사문화공원(DDP)",
+    "lat": 37.565609,
+    "lng": 127.009083,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 4호선+수도권  도시철도 5호선"
+  },
+  {
+    "id": "0210",
+    "name": "뚝섬",
+    "lat": 37.54718,
+    "lng": 127.047413,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0235",
+    "name": "문래",
+    "lat": 37.517993,
+    "lng": 126.894766,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0225",
+    "name": "방배",
+    "lat": 37.481469,
+    "lng": 126.997627,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0229",
+    "name": "봉천",
+    "lat": 37.482416,
+    "lng": 126.941896,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0226",
+    "name": "사당",
+    "lat": 37.476536,
+    "lng": 126.981631,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 4호선"
+  },
+  {
+    "id": "0219",
+    "name": "삼성(무역센터)",
+    "lat": 37.508827,
+    "lng": 127.063203,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0207",
+    "name": "상왕십리",
+    "lat": 37.564504,
+    "lng": 127.028872,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0228",
+    "name": "서울대입구(관악구청)",
+    "lat": 37.481233,
+    "lng": 126.952745,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0224",
+    "name": "서초",
+    "lat": 37.49191,
+    "lng": 127.007945,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0220",
+    "name": "선릉",
+    "lat": 37.504257,
+    "lng": 127.048174,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 분당"
+  },
+  {
+    "id": "0211",
+    "name": "성수",
+    "lat": 37.544628,
+    "lng": 127.055983,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0201",
+    "name": "시청",
+    "lat": 37.563534,
+    "lng": 126.975271,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0206",
+    "name": "신당",
+    "lat": 37.56147,
+    "lng": 127.056348,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0231",
+    "name": "신대방",
+    "lat": 37.487534,
+    "lng": 126.913279,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0234",
+    "name": "신도림",
+    "lat": 37.508815,
+    "lng": 126.891222,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 1호선+수도권 도시철도 2호선"
+  },
+  {
+    "id": "0230",
+    "name": "신림",
+    "lat": 37.484216,
+    "lng": 126.929573,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0240",
+    "name": "신촌(지하)",
+    "lat": 37.555153,
+    "lng": 126.93689,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0242",
+    "name": "아현",
+    "lat": 37.557407,
+    "lng": 126.956079,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0221",
+    "name": "역삼",
+    "lat": 37.500658,
+    "lng": 127.03643,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0236",
+    "name": "영등포구청",
+    "lat": 37.525766,
+    "lng": 126.896627,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "0208",
+    "name": "왕십리(성동구청)",
+    "lat": 37.561159,
+    "lng": 127.035505,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 5호선+수도권 광역철도 분당+수도권 광역철도 경의중앙"
+  },
+  {
+    "id": "0203",
+    "name": "을지로3가",
+    "lat": 37.566292,
+    "lng": 126.991773,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0204",
+    "name": "을지로4가",
+    "lat": 37.566611,
+    "lng": 126.998122,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "0202",
+    "name": "을지로입구",
+    "lat": 37.565998,
+    "lng": 126.982569,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0241",
+    "name": "이대",
+    "lat": 37.556734,
+    "lng": 126.945897,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0216",
+    "name": "잠실(송파구청)",
+    "lat": 37.513305,
+    "lng": 127.100129,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 8호선"
+  },
+  {
+    "id": "0215",
+    "name": "잠실나루",
+    "lat": 37.520688,
+    "lng": 127.103836,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0217",
+    "name": "잠실새내",
+    "lat": 37.520731,
+    "lng": 127.103738,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0218",
+    "name": "종합운동장",
+    "lat": 37.511008,
+    "lng": 127.073641,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 9호선"
+  },
+  {
+    "id": "0243",
+    "name": "충정로(경기대입구)",
+    "lat": 37.559742,
+    "lng": 126.964455,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "0209",
+    "name": "한양대",
+    "lat": 37.55658,
+    "lng": 127.043504,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0238",
+    "name": "합정",
+    "lat": 37.550025,
+    "lng": 126.914557,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0239",
+    "name": "홍대입구",
+    "lat": 37.556748,
+    "lng": 126.923643,
+    "lineName": "2호선",
+    "transferLineName": "수도권  광역철도 공항+수도권 광역철도 경의중앙"
+  },
+  {
+    "id": "0548",
+    "name": "강동",
+    "lat": 37.53581,
+    "lng": 127.13249,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0554",
+    "name": "강일",
+    "lat": 37.557521,
+    "lng": 127.176018,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "P553",
+    "name": "개롱",
+    "lat": 37.498097,
+    "lng": 127.134817,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0511",
+    "name": "개화산",
+    "lat": 37.572458,
+    "lng": 126.806838,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "P554",
+    "name": "거여",
+    "lat": 37.493208,
+    "lng": 127.143983,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0552",
+    "name": "고덕",
+    "lat": 37.555002,
+    "lng": 127.154214,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0529",
+    "name": "공덕",
+    "lat": 37.544005,
+    "lng": 126.951058,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0546",
+    "name": "광나루(장신대)",
+    "lat": 37.545301,
+    "lng": 127.103478,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0533",
+    "name": "광화문(세종문화회관)",
+    "lat": 37.570545,
+    "lng": 126.976568,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0544",
+    "name": "군자(능동)",
+    "lat": 37.557102,
+    "lng": 127.079559,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 7호선"
+  },
+  {
+    "id": "0550",
+    "name": "굽은다리(강동구민회관앞)",
+    "lat": 37.545442,
+    "lng": 127.142844,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0549",
+    "name": "길동",
+    "lat": 37.538022,
+    "lng": 127.140085,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0512",
+    "name": "김포공항",
+    "lat": 37.56217,
+    "lng": 126.801273,
+    "lineName": "5호선",
+    "transferLineName": "수도권 도시철도 9호선+수도권 광역철도 공항+김포도시철도+서해선"
+  },
+  {
+    "id": "0518",
+    "name": "까치산",
+    "lat": 37.53181,
+    "lng": 126.846706,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0542",
+    "name": "답십리",
+    "lat": 37.566833,
+    "lng": 127.05266,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0536",
+    "name": "동대문역사문화공원(DDP)",
+    "lat": 37.564682,
+    "lng": 127.00533,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 2호선+수도권 광역철도 4호선"
+  },
+  {
+    "id": "P549",
+    "name": "둔촌동",
+    "lat": 37.527787,
+    "lng": 127.136219,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0514",
+    "name": "마곡",
+    "lat": 37.560182,
+    "lng": 126.82493,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0541",
+    "name": "마장",
+    "lat": 37.566066,
+    "lng": 127.042921,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "P555",
+    "name": "마천",
+    "lat": 37.494972,
+    "lng": 127.152784,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0528",
+    "name": "마포",
+    "lat": 37.539718,
+    "lng": 126.946043,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0551",
+    "name": "명일",
+    "lat": 37.551317,
+    "lng": 127.144002,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0520",
+    "name": "목동",
+    "lat": 37.526088,
+    "lng": 126.864296,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0555",
+    "name": "미사",
+    "lat": 37.56329,
+    "lng": 127.192954,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0515",
+    "name": "발산",
+    "lat": 37.562182,
+    "lng": 126.82693,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "P551",
+    "name": "방이",
+    "lat": 37.508752,
+    "lng": 127.126054,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0510",
+    "name": "방화",
+    "lat": 37.577669,
+    "lng": 126.812822,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0553",
+    "name": "상일동",
+    "lat": 37.556714,
+    "lng": 127.166381,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0532",
+    "name": "서대문",
+    "lat": 37.565812,
+    "lng": 126.966639,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0513",
+    "name": "송정",
+    "lat": 37.561411,
+    "lng": 126.812052,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0538",
+    "name": "신금호",
+    "lat": 37.554504,
+    "lng": 127.020403,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0525",
+    "name": "신길",
+    "lat": 37.51763,
+    "lng": 126.914886,
+    "lineName": "5호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0519",
+    "name": "신정(은행정)",
+    "lat": 37.525001,
+    "lng": 126.856176,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0545",
+    "name": "아차산(어린이대공원후문)",
+    "lat": 37.552005,
+    "lng": 127.089609,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0530",
+    "name": "애오개",
+    "lat": 37.553592,
+    "lng": 126.956733,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0522",
+    "name": "양평",
+    "lat": 37.525614,
+    "lng": 126.886177,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0527",
+    "name": "여의나루",
+    "lat": 37.527145,
+    "lng": 126.932807,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0526",
+    "name": "여의도",
+    "lat": 37.521578,
+    "lng": 126.924318,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 9호선"
+  },
+  {
+    "id": "0523",
+    "name": "영등포구청",
+    "lat": 37.524209,
+    "lng": 126.895022,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0524",
+    "name": "영등포시장",
+    "lat": 37.52276,
+    "lng": 126.905143,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "P552",
+    "name": "오금",
+    "lat": 37.502228,
+    "lng": 127.127701,
+    "lineName": "5호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0521",
+    "name": "오목교(목동운동장앞)",
+    "lat": 37.524557,
+    "lng": 126.875049,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "P550",
+    "name": "올림픽공원(한국체대)",
+    "lat": 37.516217,
+    "lng": 127.130957,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0540",
+    "name": "왕십리(성동구청)",
+    "lat": 37.56197,
+    "lng": 127.037264,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 2호선+수도권 광역철도 분당+수도권 광역철도 경의중앙"
+  },
+  {
+    "id": "0516",
+    "name": "우장산",
+    "lat": 37.548864,
+    "lng": 126.83633,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0535",
+    "name": "을지로4가",
+    "lat": 37.56658,
+    "lng": 126.998127,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0543",
+    "name": "장한평",
+    "lat": 37.561438,
+    "lng": 127.064601,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0534",
+    "name": "종로3가(탑골공원)",
+    "lat": 37.572546,
+    "lng": 126.990447,
+    "lineName": "5호선",
+    "transferLineName": "수도권  광역철도 3호선+수도권 광역철도 1호선"
+  },
+  {
+    "id": "0547",
+    "name": "천호(풍납토성)",
+    "lat": 37.538566,
+    "lng": 127.123539,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 8호선"
+  },
+  {
+    "id": "0537",
+    "name": "청구",
+    "lat": 37.560237,
+    "lng": 127.01379,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0531",
+    "name": "충정로(경기대입구)",
+    "lat": 37.560061,
+    "lng": 126.962783,
+    "lineName": "5호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0558",
+    "name": "하남검단산",
+    "lat": 37.539729,
+    "lng": 127.223427,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0557",
+    "name": "하남시청(덕풍∙신장)",
+    "lat": 37.541723,
+    "lng": 127.206901,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0556",
+    "name": "하남풍산",
+    "lat": 37.552201,
+    "lng": 127.203897,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0539",
+    "name": "행당",
+    "lat": 37.557297,
+    "lng": 127.029482,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0517",
+    "name": "화곡",
+    "lat": 37.541585,
+    "lng": 126.840436,
+    "lineName": "5호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0640",
+    "name": "고려대(종암)",
+    "lat": 37.586261,
+    "lng": 127.02903,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0626",
+    "name": "공덕",
+    "lat": 37.547732,
+    "lng": 126.942214,
+    "lineName": "6호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "0624",
+    "name": "광흥창(서강)",
+    "lat": 37.547704,
+    "lng": 126.92292,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0615",
+    "name": "구산",
+    "lat": 37.618596,
+    "lng": 126.920519,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0629",
+    "name": "녹사평(용산구청)",
+    "lat": 37.535563,
+    "lng": 126.973996,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0625",
+    "name": "대흥(서강대앞)",
+    "lat": 37.547464,
+    "lng": 126.931971,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0613",
+    "name": "독바위",
+    "lat": 37.618413,
+    "lng": 126.933035,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0643",
+    "name": "돌곶이",
+    "lat": 37.606392,
+    "lng": 127.048509,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0636",
+    "name": "동묘앞",
+    "lat": 37.566174,
+    "lng": 127.016158,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0618",
+    "name": "디지털미디어시티",
+    "lat": 37.583989,
+    "lng": 126.909785,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 경의중앙+수도권 광역철도 공항"
+  },
+  {
+    "id": "0620",
+    "name": "마포구청",
+    "lat": 37.569439,
+    "lng": 126.899077,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0621",
+    "name": "망원",
+    "lat": 37.563535,
+    "lng": 126.903326,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0632",
+    "name": "버티고개",
+    "lat": 37.53956,
+    "lng": 127.001729,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0638",
+    "name": "보문",
+    "lat": 37.579772,
+    "lng": 127.015246,
+    "lineName": "6호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0647",
+    "name": "봉화산(서울의료원)",
+    "lat": 37.619875,
+    "lng": 127.084106,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0612",
+    "name": "불광",
+    "lat": 37.610919,
+    "lng": 126.929504,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0628",
+    "name": "삼각지(전쟁기념관)",
+    "lat": 37.539279,
+    "lng": 126.961348,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 4호선"
+  },
+  {
+    "id": "0623",
+    "name": "상수",
+    "lat": 37.549033,
+    "lng": 126.913546,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0642",
+    "name": "상월곡(한국과학기술연구원)",
+    "lat": 37.60192,
+    "lng": 127.041492,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0616",
+    "name": "새절(신사)",
+    "lat": 37.611223,
+    "lng": 126.917246,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0644",
+    "name": "석계",
+    "lat": 37.610522,
+    "lng": 127.056419,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0648",
+    "name": "신내",
+    "lat": 37.612571,
+    "lng": 127.104326,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0635",
+    "name": "신당",
+    "lat": 37.560221,
+    "lng": 127.013776,
+    "lineName": "6호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0639",
+    "name": "안암(고대병원앞)",
+    "lat": 37.585293,
+    "lng": 127.019377,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0633",
+    "name": "약수",
+    "lat": 37.547933,
+    "lng": 127.006948,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0611",
+    "name": "역촌",
+    "lat": 37.60605,
+    "lng": 126.922764,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0614",
+    "name": "연신내",
+    "lat": 37.617293,
+    "lng": 127.091375,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0641",
+    "name": "월곡(동덕여대)",
+    "lat": 37.59034,
+    "lng": 127.03626,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0619",
+    "name": "월드컵경기장(성산)",
+    "lat": 37.577005,
+    "lng": 126.898643,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0610",
+    "name": "응암",
+    "lat": 37.59859,
+    "lng": 126.915583,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0630",
+    "name": "이태원",
+    "lat": 37.53469,
+    "lng": 126.98665,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0617",
+    "name": "증산(명지대앞)",
+    "lat": 37.591148,
+    "lng": 126.913613,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0637",
+    "name": "창신",
+    "lat": 37.572275,
+    "lng": 127.015666,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0634",
+    "name": "청구",
+    "lat": 37.554087,
+    "lng": 127.010237,
+    "lineName": "6호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "0645",
+    "name": "태릉입구",
+    "lat": 37.614937,
+    "lng": 127.065922,
+    "lineName": "6호선",
+    "transferLineName": "수도권  도시철도 7호선"
+  },
+  {
+    "id": "0631",
+    "name": "한강진",
+    "lat": 37.534485,
+    "lng": 126.994369,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0622",
+    "name": "합정",
+    "lat": 37.556031,
+    "lng": 126.910129,
+    "lineName": "6호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0646",
+    "name": "화랑대(서울여대입구)",
+    "lat": 37.617319,
+    "lng": 127.074741,
+    "lineName": "6호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0627",
+    "name": "효창공원앞",
+    "lat": 37.543592,
+    "lng": 126.951664,
+    "lineName": "6호선",
+    "transferLineName": "수도권  광역철도 경의중앙"
+  },
+  {
+    "id": "0746",
+    "name": "가산디지털단지",
+    "lat": 37.480376,
+    "lng": 126.882704,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0730",
+    "name": "강남구청",
+    "lat": 37.517185,
+    "lng": 127.04122,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 분당"
+  },
+  {
+    "id": "0727",
+    "name": "건대입구",
+    "lat": 37.540882,
+    "lng": 127.071103,
+    "lineName": "7호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0734",
+    "name": "고속터미널",
+    "lat": 37.503387,
+    "lng": 127.005055,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 3호선+수도권 도시철도 9호선"
+  },
+  {
+    "id": "0716",
+    "name": "공릉(서울과학기술대)",
+    "lat": 37.625642,
+    "lng": 127.072969,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0748",
+    "name": "광명사거리",
+    "lat": 37.47927,
+    "lng": 126.854854,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0725",
+    "name": "군자(능동)",
+    "lat": 37.557151,
+    "lng": 127.079484,
+    "lineName": "7호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "0745",
+    "name": "남구로",
+    "lat": 37.486181,
+    "lng": 126.887372,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0737",
+    "name": "남성",
+    "lat": 37.484688,
+    "lng": 126.971108,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0735",
+    "name": "내방",
+    "lat": 37.48764,
+    "lng": 126.993541,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0713",
+    "name": "노원",
+    "lat": 37.654478,
+    "lng": 127.060555,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 4호선"
+  },
+  {
+    "id": "0732",
+    "name": "논현",
+    "lat": 37.511108,
+    "lng": 127.021385,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0744",
+    "name": "대림(구로구청)",
+    "lat": 37.492984,
+    "lng": 126.896997,
+    "lineName": "7호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0710",
+    "name": "도봉산",
+    "lat": 37.689131,
+    "lng": 127.046548,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0712",
+    "name": "마들",
+    "lat": 37.664985,
+    "lng": 127.057701,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0718",
+    "name": "먹골",
+    "lat": 37.610638,
+    "lng": 127.077719,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0721",
+    "name": "면목",
+    "lat": 37.588671,
+    "lng": 127.087503,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0733",
+    "name": "반포",
+    "lat": 37.508171,
+    "lng": 127.011717,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0742",
+    "name": "보라매",
+    "lat": 37.499916,
+    "lng": 126.920112,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0722",
+    "name": "사가정",
+    "lat": 37.580912,
+    "lng": 127.088502,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0739",
+    "name": "상도",
+    "lat": 37.50279,
+    "lng": 126.947949,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0720",
+    "name": "상봉",
+    "lat": 37.595673,
+    "lng": 127.085708,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 경춘+수도권 광역철도 경의중앙"
+  },
+  {
+    "id": "0711",
+    "name": "수락산",
+    "lat": 37.677804,
+    "lng": 127.055314,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0738",
+    "name": "숭실대입구(살피재)",
+    "lat": 37.496258,
+    "lng": 126.953649,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0741",
+    "name": "신대방삼거리",
+    "lat": 37.499717,
+    "lng": 126.928218,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0743",
+    "name": "신풍",
+    "lat": 37.500107,
+    "lng": 126.909806,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0726",
+    "name": "어린이대공원(세종대)",
+    "lat": 37.547962,
+    "lng": 127.07465,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0750",
+    "name": "온수(성공회대입구)",
+    "lat": 37.492059,
+    "lng": 126.823294,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 1호선"
+  },
+  {
+    "id": "0723",
+    "name": "용마산(용마폭포공원)",
+    "lat": 37.573752,
+    "lng": 127.086802,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0728",
+    "name": "자양(뚝섬한강공원)",
+    "lat": 37.531558,
+    "lng": 127.066714,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0740",
+    "name": "장승배기",
+    "lat": 37.504845,
+    "lng": 126.939025,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0709",
+    "name": "장암",
+    "lat": 37.70015,
+    "lng": 127.053126,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0714",
+    "name": "중계",
+    "lat": 37.645052,
+    "lng": 127.064084,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0724",
+    "name": "중곡",
+    "lat": 37.565877,
+    "lng": 127.084291,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0719",
+    "name": "중화",
+    "lat": 37.602604,
+    "lng": 127.079254,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0749",
+    "name": "천왕",
+    "lat": 37.486699,
+    "lng": 126.838684,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0747",
+    "name": "철산",
+    "lat": 37.47616,
+    "lng": 126.868217,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0729",
+    "name": "청담",
+    "lat": 37.519097,
+    "lng": 127.051851,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0736",
+    "name": "총신대입구(이수)",
+    "lat": 37.485258,
+    "lng": 126.981766,
+    "lineName": "7호선",
+    "transferLineName": "수도권  광역철도 4호선"
+  },
+  {
+    "id": "0717",
+    "name": "태릉입구",
+    "lat": 37.617319,
+    "lng": 127.074741,
+    "lineName": "7호선",
+    "transferLineName": "수도권  도시철도 6호선"
+  },
+  {
+    "id": "0715",
+    "name": "하계",
+    "lat": 37.636363,
+    "lng": 127.067999,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0731",
+    "name": "학동",
+    "lat": 37.514262,
+    "lng": 127.031738,
+    "lineName": "7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3760",
+    "name": "굴포천",
+    "lat": 37.50695,
+    "lng": 126.731481,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3753",
+    "name": "까치울",
+    "lat": 37.506236,
+    "lng": 126.81095,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3757",
+    "name": "부천시청",
+    "lat": 37.504611,
+    "lng": 126.763561,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3754",
+    "name": "부천종합운동장",
+    "lat": 37.505381,
+    "lng": 126.79735,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3761",
+    "name": "부평구청",
+    "lat": 37.508333,
+    "lng": 126.720556,
+    "lineName": "도시철도 7호선",
+    "transferLineName": "인천1호선"
+  },
+  {
+    "id": "3762",
+    "name": "산곡",
+    "lat": 37.508547,
+    "lng": 126.70351,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3759",
+    "name": "삼산체육관",
+    "lat": 37.506431,
+    "lng": 126.742081,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3758",
+    "name": "상동",
+    "lat": 37.505769,
+    "lng": 126.753081,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3763",
+    "name": "석남(거북시장)",
+    "lat": 37.506208,
+    "lng": 126.676213,
+    "lineName": "도시철도 7호선",
+    "transferLineName": "인천2호선"
+  },
+  {
+    "id": "3756",
+    "name": "신중동",
+    "lat": 37.503081,
+    "lng": 126.776161,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3755",
+    "name": "춘의",
+    "lat": 37.50365,
+    "lng": 126.787069,
+    "lineName": "도시철도 7호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0817",
+    "name": "가락시장",
+    "lat": 37.493004,
+    "lng": 127.118279,
+    "lineName": "8호선",
+    "transferLineName": "수도권  광역철도 3호선"
+  },
+  {
+    "id": "0812",
+    "name": "강동구청",
+    "lat": 37.530348,
+    "lng": 127.120461,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0821",
+    "name": "남위례",
+    "lat": 37.462839,
+    "lng": 127.139047,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0823",
+    "name": "남한산성입구(성남법원·검찰청)",
+    "lat": 37.451568,
+    "lng": 127.159845,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0824",
+    "name": "단대오거리",
+    "lat": 37.445057,
+    "lng": 127.156735,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0827",
+    "name": "모란",
+    "lat": 37.433888,
+    "lng": 127.129921,
+    "lineName": "8호선",
+    "transferLineName": "수도권  광역철도 분당"
+  },
+  {
+    "id": "0813",
+    "name": "몽촌토성(평화의문)",
+    "lat": 37.517692,
+    "lng": 127.11274,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0818",
+    "name": "문정",
+    "lat": 37.485931,
+    "lng": 127.122473,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0820",
+    "name": "복정",
+    "lat": 37.471016,
+    "lng": 127.126746,
+    "lineName": "8호선",
+    "transferLineName": "수도권  광역철도 분당"
+  },
+  {
+    "id": "0822",
+    "name": "산성",
+    "lat": 37.456886,
+    "lng": 127.149927,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0815",
+    "name": "석촌",
+    "lat": 37.505396,
+    "lng": 127.106995,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0816",
+    "name": "송파",
+    "lat": 37.49978,
+    "lng": 127.11212,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0826",
+    "name": "수진",
+    "lat": 37.437575,
+    "lng": 127.140936,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0825",
+    "name": "신흥",
+    "lat": 37.440952,
+    "lng": 127.14759,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0810",
+    "name": "암사",
+    "lat": 37.550127,
+    "lng": 127.127521,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0809",
+    "name": "암사역사공원",
+    "lat": 37.556667,
+    "lng": 127.135556,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0814",
+    "name": "잠실(송파구청)",
+    "lat": 37.514649,
+    "lng": 127.104267,
+    "lineName": "8호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "0819",
+    "name": "장지",
+    "lat": 37.478609,
+    "lng": 127.126229,
+    "lineName": "8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0811",
+    "name": "천호(풍납토성)",
+    "lat": 37.53792,
+    "lng": 127.123179,
+    "lineName": "8호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "4107",
+    "name": "가양",
+    "lat": 37.561391,
+    "lng": 126.854456,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4101",
+    "name": "개화",
+    "lat": 37.578608,
+    "lng": 126.798153,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4123",
+    "name": "고속터미널",
+    "lat": 37.50481,
+    "lng": 127.004943,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "서울 도시철도 3호선\n서울 도시철도 7호선"
+  },
+  {
+    "id": "4103",
+    "name": "공항시장",
+    "lat": 37.563726,
+    "lng": 126.810678,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4121",
+    "name": "구반포",
+    "lat": 37.501364,
+    "lng": 126.987332,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4114",
+    "name": "국회의사당",
+    "lat": 37.528105,
+    "lng": 126.917874,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4102",
+    "name": "김포공항",
+    "lat": 37.562434,
+    "lng": 126.801058,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "서울 도시철도 5호선\n인천국제공항선\n김포골드라인\n서해선"
+  },
+  {
+    "id": "4118",
+    "name": "노들",
+    "lat": 37.512887,
+    "lng": 126.953222,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4117",
+    "name": "노량진",
+    "lat": 37.514219,
+    "lng": 126.942454,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "경부선"
+  },
+  {
+    "id": "4113",
+    "name": "당산",
+    "lat": 37.53438,
+    "lng": 126.902281,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "서울 도시철도 2호선"
+  },
+  {
+    "id": "4120",
+    "name": "동작(현충원)",
+    "lat": 37.502971,
+    "lng": 126.979306,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "서울 도시철도 4호선"
+  },
+  {
+    "id": "4109",
+    "name": "등촌",
+    "lat": 37.550632,
+    "lng": 126.865689,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4105",
+    "name": "마곡나루(서울식물원)",
+    "lat": 37.567336,
+    "lng": 126.829497,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "인천국제공항선"
+  },
+  {
+    "id": "4124",
+    "name": "사평",
+    "lat": 37.504206,
+    "lng": 127.015259,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4116",
+    "name": "샛강",
+    "lat": 37.517274,
+    "lng": 126.928422,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "서울 경량도시철도 신림선"
+  },
+  {
+    "id": "4112",
+    "name": "선유도",
+    "lat": 37.53802,
+    "lng": 126.893525,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4125",
+    "name": "신논현",
+    "lat": 37.504598,
+    "lng": 127.02506,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "신분당선"
+  },
+  {
+    "id": "4111",
+    "name": "신목동",
+    "lat": 37.544277,
+    "lng": 126.88308,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4122",
+    "name": "신반포",
+    "lat": 37.503415,
+    "lng": 126.995925,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4104",
+    "name": "신방화",
+    "lat": 37.567532,
+    "lng": 126.816601,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4106",
+    "name": "양천향교",
+    "lat": 37.568381,
+    "lng": 126.841333,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4115",
+    "name": "여의도",
+    "lat": 37.521624,
+    "lng": 126.924191,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": "서울 도시철도 5호선"
+  },
+  {
+    "id": "4110",
+    "name": "염창",
+    "lat": 37.546936,
+    "lng": 126.874916,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4108",
+    "name": "증미",
+    "lat": 37.557402,
+    "lng": 126.861939,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4119",
+    "name": "흑석(중앙대입구)",
+    "lat": 37.50877,
+    "lng": 126.963708,
+    "lineName": "서울 도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4137",
+    "name": "둔촌오륜",
+    "lat": 37.519339,
+    "lng": 127.138619,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4129",
+    "name": "봉은사",
+    "lat": 37.514219,
+    "lng": 127.060245,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4128",
+    "name": "삼성중앙",
+    "lat": 37.513011,
+    "lng": 127.053282,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4131",
+    "name": "삼전",
+    "lat": 37.504531,
+    "lng": 127.087211,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4133",
+    "name": "석촌",
+    "lat": 37.505278,
+    "lng": 127.106944,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": "수도권  도시철도 8호선"
+  },
+  {
+    "id": "4132",
+    "name": "석촌고분",
+    "lat": 37.502439,
+    "lng": 127.096611,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4127",
+    "name": "선정릉",
+    "lat": 37.51098,
+    "lng": 127.043593,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": "수인분당선"
+  },
+  {
+    "id": "4134",
+    "name": "송파나루",
+    "lat": 37.51055,
+    "lng": 127.112451,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4126",
+    "name": "언주",
+    "lat": 37.507287,
+    "lng": 127.033868,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4136",
+    "name": "올림픽공원(한국체대)",
+    "lat": 37.516111,
+    "lng": 127.130333,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": "수도권  도시철도 5호선"
+  },
+  {
+    "id": "4130",
+    "name": "종합운동장",
+    "lat": 37.511156,
+    "lng": 127.076917,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "4138",
+    "name": "중앙보훈병원",
+    "lat": 37.528807,
+    "lng": 127.148488,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "4135",
+    "name": "한성백제",
+    "lat": 37.516369,
+    "lng": 127.116211,
+    "lineName": "수도권  도시철도 9호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "2112",
+    "name": "신답",
+    "lat": 37.56147,
+    "lng": 127.056348,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "2114",
+    "name": "신설동",
+    "lat": 37.574653,
+    "lng": 127.025158,
+    "lineName": "2호선",
+    "transferLineName": "수도권  도시철도 2호선"
+  },
+  {
+    "id": "2111",
+    "name": "용답",
+    "lat": 37.566412,
+    "lng": 126.977863,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "2113",
+    "name": "용두(동대문구청)",
+    "lat": 37.574012,
+    "lng": 127.03811,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "2341",
+    "name": "도림천",
+    "lat": 37.514759,
+    "lng": 126.882586,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "2343",
+    "name": "신정네거리",
+    "lat": 37.520218,
+    "lng": 126.852849,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "2342",
+    "name": "양천구청",
+    "lat": 37.512194,
+    "lng": 126.865193,
+    "lineName": "2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0105",
+    "name": "괴정",
+    "lat": 35.1,
+    "lng": 128.9925,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0124",
+    "name": "교대",
+    "lat": 35.19583,
+    "lng": 129.08,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": "부산 도시철도 1호선+동해선"
+  },
+  {
+    "id": "0130",
+    "name": "구서",
+    "lat": 35.24722,
+    "lng": 129.09139,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0132",
+    "name": "남산",
+    "lat": 35.26528,
+    "lng": 129.0925,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0111",
+    "name": "남포",
+    "lat": 35.09778,
+    "lng": 129.03472,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0097",
+    "name": "낫개",
+    "lat": 35.065179,
+    "lng": 128.979932,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0134",
+    "name": "노포",
+    "lat": 35.28361,
+    "lng": 129.095,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0096",
+    "name": "다대포항",
+    "lat": 35.057288,
+    "lng": 128.971251,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0095",
+    "name": "다대포해수욕장",
+    "lat": 35.048429,
+    "lng": 128.965919,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0103",
+    "name": "당리",
+    "lat": 35.10333,
+    "lng": 128.97417,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0106",
+    "name": "대티",
+    "lat": 35.10306,
+    "lng": 128.99972,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0108",
+    "name": "동대신",
+    "lat": 35.11056,
+    "lng": 129.01778,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0125",
+    "name": "동래",
+    "lat": 35.20556,
+    "lng": 129.07861,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": "부산 도시철도 1호선+부산 경량도시철도 4호선"
+  },
+  {
+    "id": "0100",
+    "name": "동매",
+    "lat": 35.089819,
+    "lng": 128.974029,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0131",
+    "name": "두실",
+    "lat": 35.25694,
+    "lng": 129.09139,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0126",
+    "name": "명륜",
+    "lat": 35.21222,
+    "lng": 129.07944,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0118",
+    "name": "범내골",
+    "lat": 35.14722,
+    "lng": 129.05917,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0133",
+    "name": "범어사",
+    "lat": 35.27333,
+    "lng": 129.09278,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0117",
+    "name": "범일",
+    "lat": 35.14139,
+    "lng": 129.05944,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0128",
+    "name": "부산대",
+    "lat": 35.23,
+    "lng": 129.08944,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0113",
+    "name": "부산역",
+    "lat": 35.11528,
+    "lng": 129.03972,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0115",
+    "name": "부산진",
+    "lat": 35.12778,
+    "lng": 129.04778,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0120",
+    "name": "부전",
+    "lat": 35.1625,
+    "lng": 129.06278,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0104",
+    "name": "사하",
+    "lat": 35.09972,
+    "lng": 128.98333,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0107",
+    "name": "서대신",
+    "lat": 35.11083,
+    "lng": 129.01194,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0119",
+    "name": "서면",
+    "lat": 35.15778,
+    "lng": 129.05917,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": "부산 도시철도 1호선+부산 도시철도 2호선"
+  },
+  {
+    "id": "0122",
+    "name": "시청",
+    "lat": 35.17972,
+    "lng": 129.07667,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0098",
+    "name": "신장림",
+    "lat": 35.074222,
+    "lng": 128.976638,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0101",
+    "name": "신평",
+    "lat": 35.09556,
+    "lng": 128.96056,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0121",
+    "name": "양정",
+    "lat": 35.17304,
+    "lng": 129.07119,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0123",
+    "name": "연산",
+    "lat": 35.18611,
+    "lng": 129.08167,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": "부산 도시철도 1호선+부산 도시철도 3호선"
+  },
+  {
+    "id": "0127",
+    "name": "온천장",
+    "lat": 35.22056,
+    "lng": 129.08667,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0110",
+    "name": "자갈치",
+    "lat": 35.0975,
+    "lng": 129.02694,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0099",
+    "name": "장림",
+    "lat": 35.081555,
+    "lng": 128.977638,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0129",
+    "name": "장전",
+    "lat": 35.23806,
+    "lng": 129.08806,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0116",
+    "name": "좌천",
+    "lat": 35.13417,
+    "lng": 129.05417,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0112",
+    "name": "중앙",
+    "lat": 35.10389,
+    "lng": 129.03639,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0114",
+    "name": "초량",
+    "lat": 35.12111,
+    "lng": 129.04296,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0109",
+    "name": "토성",
+    "lat": 35.10083,
+    "lng": 129.01972,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0102",
+    "name": "하단",
+    "lat": 35.10611,
+    "lng": 128.96667,
+    "lineName": "부산 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0221",
+    "name": "가야",
+    "lat": 35.15589,
+    "lng": 129.04283,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0226",
+    "name": "감전",
+    "lat": 35.15553,
+    "lng": 128.99114,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0223",
+    "name": "개금",
+    "lat": 35.15325,
+    "lng": 129.02056,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0212",
+    "name": "경성대·부경대",
+    "lat": 35.13757,
+    "lng": 129.10055,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0209",
+    "name": "광안",
+    "lat": 35.15792,
+    "lng": 129.11097,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0231",
+    "name": "구남",
+    "lat": 35.19681,
+    "lng": 128.99492,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0232",
+    "name": "구명",
+    "lat": 35.20253,
+    "lng": 128.99931,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0217",
+    "name": "국제금융센터·부산은행",
+    "lat": 35.14583,
+    "lng": 129.06672,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0238",
+    "name": "금곡",
+    "lat": 35.26733,
+    "lng": 129.01686,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0210",
+    "name": "금련산",
+    "lat": 35.14989,
+    "lng": 129.10883,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0242",
+    "name": "남양산",
+    "lat": 35.32533,
+    "lng": 129.01942,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0211",
+    "name": "남천",
+    "lat": 35.14217,
+    "lng": 129.10797,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0224",
+    "name": "냉정",
+    "lat": 35.15125,
+    "lng": 129.01228,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0213",
+    "name": "대연",
+    "lat": 35.13512,
+    "lng": 129.09218,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0233",
+    "name": "덕천",
+    "lat": 35.21011,
+    "lng": 129.00533,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": "부산 도시철도 2호선+부산 도시철도 3호선"
+  },
+  {
+    "id": "0228",
+    "name": "덕포",
+    "lat": 35.17378,
+    "lng": 128.98394,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0204",
+    "name": "동백",
+    "lat": 35.16147,
+    "lng": 129.14575,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0237",
+    "name": "동원",
+    "lat": 35.25864,
+    "lng": 129.01242,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0222",
+    "name": "동의대",
+    "lat": 35.15411,
+    "lng": 129.0325,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0229",
+    "name": "모덕",
+    "lat": 35.18036,
+    "lng": 128.98561,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0230",
+    "name": "모라",
+    "lat": 35.18967,
+    "lng": 128.98864,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0214",
+    "name": "못골",
+    "lat": 35.13472,
+    "lng": 129.08442,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0216",
+    "name": "문현",
+    "lat": 35.13911,
+    "lng": 129.06736,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0207",
+    "name": "민락",
+    "lat": 35.16722,
+    "lng": 129.11978,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0205",
+    "name": "벡스코",
+    "lat": 35.16919,
+    "lng": 129.13631,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": "부산 도시철도 2호선+동해선"
+  },
+  {
+    "id": "0241",
+    "name": "부산대양산캠퍼스",
+    "lat": 35.31697,
+    "lng": 129.01383,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0220",
+    "name": "부암",
+    "lat": 35.15744,
+    "lng": 129.05019,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0227",
+    "name": "사상",
+    "lat": 35.16218,
+    "lng": 128.98467,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": "부산 도시철도 2호선+부산김해경전철"
+  },
+  {
+    "id": "0219",
+    "name": "서면",
+    "lat": 35.15778,
+    "lng": 129.05917,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": "부산 도시철도 1호선+부산 도시철도 2호선"
+  },
+  {
+    "id": "0206",
+    "name": "센텀시티",
+    "lat": 35.16892,
+    "lng": 129.12947,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0208",
+    "name": "수영",
+    "lat": 35.16778,
+    "lng": 129.11242,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": "부산 도시철도 2호선+부산 도시철도 3호선"
+  },
+  {
+    "id": "0234",
+    "name": "수정",
+    "lat": 35.22336,
+    "lng": 129.00922,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0243",
+    "name": "양산",
+    "lat": 35.33851,
+    "lng": 129.02673,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0236",
+    "name": "율리",
+    "lat": 35.24672,
+    "lng": 129.01292,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0201",
+    "name": "장산",
+    "lat": 35.17,
+    "lng": 129.17694,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0218",
+    "name": "전포",
+    "lat": 35.15311,
+    "lng": 129.06533,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0225",
+    "name": "주례",
+    "lat": 35.1505,
+    "lng": 129.00306,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0202",
+    "name": "중동",
+    "lat": 35.16669,
+    "lng": 129.16617,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0240",
+    "name": "증산",
+    "lat": 35.30828,
+    "lng": 129.01028,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0215",
+    "name": "지게골",
+    "lat": 35.13558,
+    "lng": 129.07436,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0203",
+    "name": "해운대",
+    "lat": 35.18183,
+    "lng": 129.1745,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0239",
+    "name": "호포",
+    "lat": 35.281,
+    "lng": 129.01725,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0235",
+    "name": "화명",
+    "lat": 35.2345,
+    "lng": 129.00767,
+    "lineName": "부산 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0315",
+    "name": "강서구청",
+    "lat": 35.21125,
+    "lng": 128.98175,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0306",
+    "name": "거제",
+    "lat": 35.18858,
+    "lng": 129.07394,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": "부산 도시철도 3호선+동해선"
+  },
+  {
+    "id": "0314",
+    "name": "구포",
+    "lat": 35.20544,
+    "lng": 128.99711,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0311",
+    "name": "남산정",
+    "lat": 35.21333,
+    "lng": 129.02392,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0317",
+    "name": "대저",
+    "lat": 35.21353,
+    "lng": 128.95994,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": "부산 도시철도 3호선+부산김해경전철"
+  },
+  {
+    "id": "0313",
+    "name": "덕천",
+    "lat": 35.21039,
+    "lng": 129.00525,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": "부산 도시철도 2호선+부산 도시철도 3호선"
+  },
+  {
+    "id": "0310",
+    "name": "만덕",
+    "lat": 35.213,
+    "lng": 129.0365,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0302",
+    "name": "망미",
+    "lat": 35.17153,
+    "lng": 129.10822,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0304",
+    "name": "물만골",
+    "lat": 35.17681,
+    "lng": 129.08575,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0309",
+    "name": "미남",
+    "lat": 35.2055,
+    "lng": 129.06806,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": "부산 도시철도 3호선+부산 경량도시철도 4호선"
+  },
+  {
+    "id": "0303",
+    "name": "배산",
+    "lat": 35.1735,
+    "lng": 129.0955,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0308",
+    "name": "사직",
+    "lat": 35.199,
+    "lng": 129.065,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0301",
+    "name": "수영",
+    "lat": 35.16775,
+    "lng": 129.11458,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": "부산 도시철도 2호선+부산 도시철도 3호선"
+  },
+  {
+    "id": "0312",
+    "name": "숙등",
+    "lat": 35.21197,
+    "lng": 129.01275,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0305",
+    "name": "연산",
+    "lat": 35.18614,
+    "lng": 129.08147,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": "부산 도시철도 1호선+부산 도시철도 3호선"
+  },
+  {
+    "id": "0307",
+    "name": "종합운동장",
+    "lat": 35.19125,
+    "lng": 129.0675,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0316",
+    "name": "체육공원",
+    "lat": 35.21261,
+    "lng": 128.96894,
+    "lineName": "부산 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0145",
+    "name": "각산",
+    "lat": 35.867852,
+    "lng": 128.723843,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0128",
+    "name": "교대",
+    "lat": 35.8510953,
+    "lng": 128.5864303,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0117",
+    "name": "대곡(정부대구청사)",
+    "lat": 35.809271,
+    "lng": 128.51117,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0132",
+    "name": "대구역",
+    "lat": 35.876379,
+    "lng": 128.596919,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0147",
+    "name": "대구한의대병원",
+    "lat": 35.8717089,
+    "lng": 128.7508237,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0124",
+    "name": "대명",
+    "lat": 35.8392924,
+    "lng": 128.5612846,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0136",
+    "name": "동구청(큰고개)",
+    "lat": 35.884485,
+    "lng": 128.632295,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0135",
+    "name": "동대구역",
+    "lat": 35.877626,
+    "lng": 128.627152,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0138",
+    "name": "동촌(동촌유원지)",
+    "lat": 35.886339,
+    "lng": 128.650455,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0129",
+    "name": "명덕(2.28민주운동기념회관)",
+    "lat": 35.85732,
+    "lng": 128.5906,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": "대구도시철도1호선+대구도시철도3호선"
+  },
+  {
+    "id": "0144",
+    "name": "반야월",
+    "lat": 35.865848,
+    "lng": 128.713663,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0130",
+    "name": "반월당",
+    "lat": 35.86389,
+    "lng": 128.593312,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": "대구도시철도1호선+대구도시철도2호선"
+  },
+  {
+    "id": "0140",
+    "name": "방촌",
+    "lat": 35.879929,
+    "lng": 128.669767,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0148",
+    "name": "부호(경일대·호산대)",
+    "lat": 35.9002809,
+    "lng": 128.8031144,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0120",
+    "name": "상인",
+    "lat": 35.8193983,
+    "lng": 128.5369588,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0123",
+    "name": "서부정류장(관문시장)",
+    "lat": 35.8373375,
+    "lng": 128.5526302,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0115",
+    "name": "설화명곡",
+    "lat": 35.7986179,
+    "lng": 128.4893927,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0122",
+    "name": "송현",
+    "lat": 35.831092,
+    "lng": 128.551755,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0143",
+    "name": "신기",
+    "lat": 35.866761,
+    "lng": 128.701724,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0134",
+    "name": "신천(경북대입구)",
+    "lat": 35.875027,
+    "lng": 128.617244,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0137",
+    "name": "아양교(대구국제공항입구)",
+    "lat": 35.887208,
+    "lng": 128.639572,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0146",
+    "name": "안심(혁신도시·첨복단지)",
+    "lat": 35.87,
+    "lng": 128.73,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0125",
+    "name": "안지랑",
+    "lat": 35.839,
+    "lng": 128.57,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0127",
+    "name": "영대병원",
+    "lat": 35.8442516,
+    "lng": 128.5882407,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0141",
+    "name": "용계",
+    "lat": 35.876256,
+    "lng": 128.681414,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0119",
+    "name": "월배",
+    "lat": 35.816123,
+    "lng": 128.530119,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0121",
+    "name": "월촌",
+    "lat": 35.823695,
+    "lng": 128.545465,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0142",
+    "name": "율하",
+    "lat": 35.869751,
+    "lng": 128.692775,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0131",
+    "name": "중앙로",
+    "lat": 35.869873,
+    "lng": 128.593688,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0118",
+    "name": "진천",
+    "lat": 35.813815,
+    "lng": 128.522374,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0133",
+    "name": "칠성시장",
+    "lat": 35.876459,
+    "lng": 128.604185,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0149",
+    "name": "하양(대구가톨릭대)",
+    "lat": 35.9094258,
+    "lng": 128.8175403,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0139",
+    "name": "해안",
+    "lat": 35.883765,
+    "lng": 128.659079,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0126",
+    "name": "현충로",
+    "lat": 35.50272,
+    "lng": 128.3453,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0116",
+    "name": "화원",
+    "lat": 35.804349,
+    "lng": 128.500409,
+    "lineName": "대구 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0225",
+    "name": "감삼",
+    "lat": 35.8543251,
+    "lng": 128.5439011,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0219",
+    "name": "강창",
+    "lat": 35.8531116,
+    "lng": 128.4789997,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0231",
+    "name": "경대병원",
+    "lat": 35.863302,
+    "lng": 128.60336,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0220",
+    "name": "계명대",
+    "lat": 35.85146491,
+    "lng": 128.491969,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0239",
+    "name": "고산",
+    "lat": 35.84,
+    "lng": 128.69,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0227",
+    "name": "내당",
+    "lat": 35.860194,
+    "lng": 128.564593,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0217",
+    "name": "다사",
+    "lat": 35.86495301,
+    "lng": 128.4582876,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0236",
+    "name": "담티(수성대·대륜)",
+    "lat": 35.85,
+    "lng": 128.65,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0232",
+    "name": "대구은행(대구교육청)",
+    "lat": 35.85996896,
+    "lng": 128.6137597,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0218",
+    "name": "대실",
+    "lat": 35.8573333,
+    "lng": 128.4656264,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0226",
+    "name": "두류",
+    "lat": 35.8572405,
+    "lng": 128.551509,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0235",
+    "name": "만촌",
+    "lat": 35.85,
+    "lng": 128.64,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0216",
+    "name": "문양",
+    "lat": 35.86414313,
+    "lng": 128.4370043,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0228",
+    "name": "반고개",
+    "lat": 35.8623,
+    "lng": 128.5691714,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0230",
+    "name": "반월당",
+    "lat": 35.864592,
+    "lng": 128.593334,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": "대구도시철도2호선+대구도시철도1호선"
+  },
+  {
+    "id": "0233",
+    "name": "범어",
+    "lat": 35.8591,
+    "lng": 128.6257,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0241",
+    "name": "사월",
+    "lat": 35.836566,
+    "lng": 128.715173,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0221",
+    "name": "성서산업단지",
+    "lat": 35.8518236,
+    "lng": 128.5021662,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0234",
+    "name": "수성구청(KBS)",
+    "lat": 35.85874022,
+    "lng": 128.6359517,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0238",
+    "name": "수성알파시티(삼성라이온즈파크)",
+    "lat": 35.85,
+    "lng": 128.67,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0240",
+    "name": "신매",
+    "lat": 35.84,
+    "lng": 128.7,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0237",
+    "name": "연호",
+    "lat": 35.85,
+    "lng": 128.67,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0244",
+    "name": "영남대",
+    "lat": 35.836373,
+    "lng": 128.752966,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0223",
+    "name": "용산(서부법원․검찰청입구)",
+    "lat": 35.8142587,
+    "lng": 128.5407738,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0222",
+    "name": "이곡",
+    "lat": 35.85062003,
+    "lng": 128.5157686,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0243",
+    "name": "임당",
+    "lat": 35.834131,
+    "lng": 128.741076,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0242",
+    "name": "정평",
+    "lat": 35.83407,
+    "lng": 128.728695,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0224",
+    "name": "죽전",
+    "lat": 35.85057553,
+    "lng": 128.5369391,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0229",
+    "name": "청라언덕",
+    "lat": 35.8650508,
+    "lng": 128.5787271,
+    "lineName": "대구 도시철도 2호선",
+    "transferLineName": "대구도시철도2호선+대구도시철도3호선"
+  },
+  {
+    "id": "0332",
+    "name": "건들바위",
+    "lat": 35.85538252,
+    "lng": 128.5996903,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0322",
+    "name": "공단",
+    "lat": 35.891,
+    "lng": 128.553,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0317",
+    "name": "구암(과학대보건대입구)",
+    "lat": 35.92574223,
+    "lng": 128.5503415,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0330",
+    "name": "남산(계명네거리)",
+    "lat": 35.85668979,
+    "lng": 128.5834576,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0327",
+    "name": "달성공원",
+    "lat": 35.87703001,
+    "lng": 128.5821218,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0333",
+    "name": "대봉교",
+    "lat": 35.85499783,
+    "lng": 128.6063685,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0315",
+    "name": "동천",
+    "lat": 35.93770658,
+    "lng": 128.556683,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0323",
+    "name": "만평",
+    "lat": 35.889893,
+    "lng": 128.561002,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0319",
+    "name": "매천",
+    "lat": 35.912,
+    "lng": 128.543,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0320",
+    "name": "매천시장",
+    "lat": 35.904,
+    "lng": 128.545,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0331",
+    "name": "명덕(2·28민주운동기념회관)",
+    "lat": 35.85694518,
+    "lng": 128.5900469,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": "대구도시철도3호선+대구도시철도1호선"
+  },
+  {
+    "id": "0340",
+    "name": "범물",
+    "lat": 35.82083917,
+    "lng": 128.6401127,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0326",
+    "name": "북구청(DGB대구은행파크)",
+    "lat": 35.88481395,
+    "lng": 128.5814483,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0328",
+    "name": "서문시장(동산병원)",
+    "lat": 35.86966429,
+    "lng": 128.582241,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0335",
+    "name": "수성구민운동장",
+    "lat": 35.85240979,
+    "lng": 128.6251246,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0338",
+    "name": "수성못(TBC)",
+    "lat": 35.83135605,
+    "lng": 128.6232167,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0334",
+    "name": "수성시장",
+    "lat": 35.85431676,
+    "lng": 128.6160292,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0336",
+    "name": "어린이세상",
+    "lat": 35.84516989,
+    "lng": 128.6244677,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0341",
+    "name": "용지",
+    "lat": 35.8182678,
+    "lng": 128.6465345,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0325",
+    "name": "원대",
+    "lat": 35.88973679,
+    "lng": 128.5743923,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0339",
+    "name": "지산",
+    "lat": 35.82515322,
+    "lng": 128.6319513,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0329",
+    "name": "청라언덕(신남)",
+    "lat": 35.86419437,
+    "lng": 128.5823758,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": "대구도시철도3호선+대구도시철도2호선"
+  },
+  {
+    "id": "0312",
+    "name": "칠곡경대병원",
+    "lat": 35.95838748,
+    "lng": 128.5598908,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0316",
+    "name": "칠곡운암",
+    "lat": 35.93145534,
+    "lng": 128.5545305,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0318",
+    "name": "태전",
+    "lat": 35.919,
+    "lng": 128.547,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0314",
+    "name": "팔거(국립농관원통계청)",
+    "lat": 35.94404716,
+    "lng": 128.5583366,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0321",
+    "name": "팔달",
+    "lat": 35.897,
+    "lng": 128.546,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0324",
+    "name": "팔달시장",
+    "lat": 35.88883085,
+    "lng": 128.5678716,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0313",
+    "name": "학정",
+    "lat": 35.95155512,
+    "lng": 128.5591934,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0337",
+    "name": "황금",
+    "lat": 35.83907838,
+    "lng": 128.6239185,
+    "lineName": "대구 도시철도 3호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "3123",
+    "name": "간석오거리",
+    "lat": 37.466921,
+    "lng": 126.707861,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3117",
+    "name": "갈산",
+    "lat": 37.517124,
+    "lng": 126.721566,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3115",
+    "name": "경인교대입구",
+    "lat": 37.538272,
+    "lng": 126.722603,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3114",
+    "name": "계산",
+    "lat": 37.543243,
+    "lng": 126.728436,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3110",
+    "name": "계양",
+    "lat": 37.571539,
+    "lng": 126.736319,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "공항철도"
+  },
+  {
+    "id": "3138",
+    "name": "국제업무지구",
+    "lat": 37.400464,
+    "lng": 126.630094,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3111",
+    "name": "귤현",
+    "lat": 37.566362,
+    "lng": 126.742498,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3132",
+    "name": "동막",
+    "lat": 37.398173,
+    "lng": 126.673561,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3121",
+    "name": "동수",
+    "lat": 37.485409,
+    "lng": 126.718464,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3131",
+    "name": "동춘",
+    "lat": 37.404676,
+    "lng": 126.680835,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3127",
+    "name": "문학경기장",
+    "lat": 37.434964,
+    "lng": 126.698373,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3112",
+    "name": "박촌",
+    "lat": 37.553525,
+    "lng": 126.744946,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3120",
+    "name": "부평",
+    "lat": 37.490541,
+    "lng": 126.723437,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "경인선"
+  },
+  {
+    "id": "3118",
+    "name": "부평구청",
+    "lat": 37.508768,
+    "lng": 126.720547,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "7호선"
+  },
+  {
+    "id": "3122",
+    "name": "부평삼거리",
+    "lat": 37.478267,
+    "lng": 126.710494,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3119",
+    "name": "부평시장",
+    "lat": 37.498495,
+    "lng": 126.722282,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3128",
+    "name": "선학",
+    "lat": 37.426985,
+    "lng": 126.698872,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3137",
+    "name": "센트럴파크",
+    "lat": 37.392833,
+    "lng": 126.635002,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3139",
+    "name": "송도달빛축제공원",
+    "lat": 37.40517495,
+    "lng": 126.6270537,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3129",
+    "name": "신연수",
+    "lat": 37.418032,
+    "lng": 126.693853,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3125",
+    "name": "예술회관",
+    "lat": 37.449334,
+    "lng": 126.700991,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3130",
+    "name": "원인재",
+    "lat": 37.412364,
+    "lng": 126.687893,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "수인분당선"
+  },
+  {
+    "id": "3136",
+    "name": "인천대입구",
+    "lat": 37.386239,
+    "lng": 126.639351,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3124",
+    "name": "인천시청",
+    "lat": 37.457615,
+    "lng": 126.702216,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3126",
+    "name": "인천터미널",
+    "lat": 37.441917,
+    "lng": 126.699727,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3113",
+    "name": "임학",
+    "lat": 37.545058,
+    "lng": 126.738642,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3116",
+    "name": "작전",
+    "lat": 37.530271,
+    "lng": 126.722548,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3135",
+    "name": "지식정보단지",
+    "lat": 37.378021,
+    "lng": 126.645412,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3133",
+    "name": "캠퍼스타운",
+    "lat": 37.388209,
+    "lng": 126.661985,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3134",
+    "name": "테크노파크",
+    "lat": 37.382311,
+    "lng": 126.656355,
+    "lineName": "인천지하철 1호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3216",
+    "name": "가재울",
+    "lat": 37.484152,
+    "lng": 126.683883,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3211",
+    "name": "가정(루원시티)",
+    "lat": 37.524805,
+    "lng": 126.675387,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3212",
+    "name": "가정중앙시장",
+    "lat": 37.517511,
+    "lng": 126.676784,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3203",
+    "name": "검단사거리",
+    "lat": 37.601693,
+    "lng": 126.656545,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3201",
+    "name": "검단오류",
+    "lat": 37.595162,
+    "lng": 126.629206,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3208",
+    "name": "검바위",
+    "lat": 37.561091,
+    "lng": 126.677529,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3207",
+    "name": "검암",
+    "lat": 37.568611,
+    "lng": 126.671221,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "공항철도"
+  },
+  {
+    "id": "3225",
+    "name": "남동구청",
+    "lat": 37.448179,
+    "lng": 126.736581,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3206",
+    "name": "독정",
+    "lat": 37.584927,
+    "lng": 126.675981,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3204",
+    "name": "마전",
+    "lat": 37.597756,
+    "lng": 126.667195,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3224",
+    "name": "만수",
+    "lat": 37.454962,
+    "lng": 126.731764,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3223",
+    "name": "모래내시장",
+    "lat": 37.455842,
+    "lng": 126.719578,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3210",
+    "name": "서구청",
+    "lat": 37.543839,
+    "lng": 126.676795,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3214",
+    "name": "서부여성회관",
+    "lat": 37.500298,
+    "lng": 126.675875,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3213",
+    "name": "석남(거북시장)",
+    "lat": 37.507211,
+    "lng": 126.676304,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "7호선"
+  },
+  {
+    "id": "3220",
+    "name": "석바위시장",
+    "lat": 37.457659,
+    "lng": 126.692387,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3222",
+    "name": "석천사거리",
+    "lat": 37.4569323,
+    "lng": 126.710383,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3219",
+    "name": "시민공원",
+    "lat": 37.458739,
+    "lng": 126.680091,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3209",
+    "name": "아시아드경기장",
+    "lat": 37.551373,
+    "lng": 126.677075,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3205",
+    "name": "완정",
+    "lat": 37.592867,
+    "lng": 126.672961,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3202",
+    "name": "왕길",
+    "lat": 37.592191,
+    "lng": 126.642284,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3227",
+    "name": "운연",
+    "lat": 37.437924,
+    "lng": 126.759409,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3215",
+    "name": "인천가좌",
+    "lat": 37.493762,
+    "lng": 126.675465,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3226",
+    "name": "인천대공원",
+    "lat": 37.448475,
+    "lng": 126.753051,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "3221",
+    "name": "인천시청",
+    "lat": 37.456904,
+    "lng": 126.701523,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "인천1호선"
+  },
+  {
+    "id": "3218",
+    "name": "주안",
+    "lat": 37.465517,
+    "lng": 126.680441,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "경인선"
+  },
+  {
+    "id": "3217",
+    "name": "주안국가산단",
+    "lat": 37.473599,
+    "lng": 126.681702,
+    "lineName": "인천지하철 2호선",
+    "transferLineName": "-"
+  },
+  {
+    "id": "115",
+    "name": "공항",
+    "lat": 35.144179,
+    "lng": 126.81153,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "117",
+    "name": "광주송정역",
+    "lat": 35.137529,
+    "lng": 126.791488,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "105",
+    "name": "금남로4가",
+    "lat": 35.150976,
+    "lng": 126.914446,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "106",
+    "name": "금남로5가",
+    "lat": 35.15318,
+    "lng": 126.910933,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "114",
+    "name": "김대중컨벤션센터(마륵)",
+    "lat": 35.143214,
+    "lng": 126.841442,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "103",
+    "name": "남광주",
+    "lat": 35.1384,
+    "lng": 126.921807,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "100",
+    "name": "녹동",
+    "lat": 35.107028,
+    "lng": 126.933932,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "109",
+    "name": "농성",
+    "lat": 35.153563,
+    "lng": 126.883973,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "118",
+    "name": "도산",
+    "lat": 35.131713,
+    "lng": 126.787942,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "108",
+    "name": "돌고개",
+    "lat": 35.152047,
+    "lng": 126.895637,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "104",
+    "name": "문화전당(구도청)",
+    "lat": 35.14661,
+    "lng": 126.92005,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "113",
+    "name": "상무",
+    "lat": 35.146784,
+    "lng": 126.848641,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "101",
+    "name": "소태",
+    "lat": 35.124108,
+    "lng": 126.932013,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "116",
+    "name": "송정공원",
+    "lat": 35.143565,
+    "lng": 126.799245,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "111",
+    "name": "쌍촌",
+    "lat": 35.151793,
+    "lng": 126.869519,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "107",
+    "name": "양동시장",
+    "lat": 35.154176,
+    "lng": 126.904489,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "112",
+    "name": "운천",
+    "lat": 35.150486,
+    "lng": 126.858694,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "119",
+    "name": "평동",
+    "lat": 35.1247,
+    "lng": 126.769586,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "102",
+    "name": "학동증심사입구",
+    "lat": 35.133023,
+    "lng": 126.928382,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "110",
+    "name": "화정",
+    "lat": 35.1525,
+    "lng": 126.877698,
+    "lineName": "광주도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0113",
+    "name": "갈마",
+    "lat": 36.357522,
+    "lng": 127.372632,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0115",
+    "name": "갑천",
+    "lat": 36.354578,
+    "lng": 127.354467,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0117",
+    "name": "구암",
+    "lat": 36.356605,
+    "lng": 127.33083,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0120",
+    "name": "노은",
+    "lat": 36.37415,
+    "lng": 127.317835,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0103",
+    "name": "대동",
+    "lat": 36.329532,
+    "lng": 127.442848,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0104",
+    "name": "대전",
+    "lat": 36.331583,
+    "lng": 127.433118,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0122",
+    "name": "반석",
+    "lat": 36.392128,
+    "lng": 127.314581,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0107",
+    "name": "서대전네거리",
+    "lat": 36.322416,
+    "lng": 127.412518,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0111",
+    "name": "시청",
+    "lat": 36.351673,
+    "lng": 127.386739,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0102",
+    "name": "신흥",
+    "lat": 36.319652,
+    "lng": 127.448792,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0108",
+    "name": "오룡",
+    "lat": 36.328582,
+    "lng": 127.405046,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0109",
+    "name": "용문",
+    "lat": 36.338252,
+    "lng": 127.393317,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0119",
+    "name": "월드컵경기장",
+    "lat": 36.366825,
+    "lng": 127.317859,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0114",
+    "name": "월평",
+    "lat": 36.358272,
+    "lng": 127.364382,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0116",
+    "name": "유성온천",
+    "lat": 36.353689,
+    "lng": 127.341524,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0112",
+    "name": "정부청사",
+    "lat": 36.357661,
+    "lng": 127.381047,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0106",
+    "name": "중구청",
+    "lat": 36.324831,
+    "lng": 127.419627,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0105",
+    "name": "중앙로",
+    "lat": 36.328664,
+    "lng": 127.425842,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0121",
+    "name": "지족",
+    "lat": 36.384106,
+    "lng": 127.319501,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0110",
+    "name": "탄방",
+    "lat": 36.34544,
+    "lng": 127.384603,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0101",
+    "name": "판암",
+    "lat": 36.316896,
+    "lng": 127.458264,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "0118",
+    "name": "현충원",
+    "lat": 36.359021,
+    "lng": 127.321525,
+    "lineName": "대전 도시철도 1호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "805",
+    "name": "다산역",
+    "lat": 37.62437,
+    "lng": 127.1498,
+    "lineName": "수도권 광역철도 8호선",
+    "transferLineName": ""
+  },
+  {
+    "id": "804",
+    "name": "별내역",
+    "lat": 37.64217,
+    "lng": 127.1273,
+    "lineName": "수도권 광역철도 8호선",
+    "transferLineName": "수도권 전절 경춘선"
+  }
+]
