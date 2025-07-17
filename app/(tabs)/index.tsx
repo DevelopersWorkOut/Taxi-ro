@@ -1,7 +1,7 @@
 import Slider from '@react-native-community/slider';
 import * as Location from 'expo-location';
 import React, { useEffect, useState } from 'react';
-import { ActivityIndicator, FlatList, Platform, StyleSheet, Text, View } from 'react-native';
+import { ActivityIndicator, FlatList, Platform, StyleSheet, Text, TextInput, View } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import stations from '../../assets/stations.json';
@@ -21,12 +21,30 @@ function getDistanceFromLatLonInKm(lat1: number, lon1: number, lat2: number, lon
 }
 
 // 3. 서울 택시비 계산 함수 (2024 기준, 단순화)
-function calcTaxiFare(distanceKm: number) {
+function calcTaxiFare(distanceKm: number, isOutOfCity: boolean) {
   // 기본요금: 4800원(2km까지), 이후 132m당 100원
-  if (distanceKm <= 2) return 4800;
-  const extraDistance = (distanceKm - 2) * 1000; // m
-  const extraFare = Math.ceil(extraDistance / 132) * 100;
-  return 4800 + extraFare;
+  let fare = 4800;
+  if (distanceKm > 2) {
+    const extraDistance = (distanceKm - 2) * 1000; // m
+    const extraFare = Math.ceil(extraDistance / 132) * 100;
+    fare += extraFare;
+  }
+  // 시외할증(출발지 시/군/구와 도착지 시/군/구 다르면 20% 할증)
+  if (isOutOfCity) {
+    fare = Math.round(fare * 1.2);
+  }
+  return fare;
+}
+
+// 출발지/목적지의 시/군/구(행정구역명) 얻기
+async function getCityName(lat: number, lng: number) {
+  try {
+    const [info] = await Location.reverseGeocodeAsync({ latitude: lat, longitude: lng });
+    // info.city 또는 info.region 등에서 시/군/구 이름 추출
+    return info.city || info.region || '';
+  } catch {
+    return '';
+  }
 }
 
 export default function HomeScreen() {
@@ -35,6 +53,9 @@ export default function HomeScreen() {
   const [budget, setBudget] = useState(10000); // 예산(원)
   const [filtered, setFiltered] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
+  const [startCity, setStartCity] = useState<string>('');
+  const [cityCache, setCityCache] = useState<{ [key: string]: string }>({}); // 목적지별 시/군/구 캐시
+  const [search, setSearch] = useState(''); // 역이름 검색어 상태 추가
 
   // 1. 역 데이터 중 위도/경도 없는 항목 제외 + id 중복 제거
   const validStations = React.useMemo(() => {
@@ -55,6 +76,7 @@ export default function HomeScreen() {
     });
   }, [stations]);
 
+  // 현재 위치 및 출발지 시/군/구 얻기
   useEffect(() => {
     (async () => {
       let { status } = await Location.requestForegroundPermissionsAsync();
@@ -65,13 +87,33 @@ export default function HomeScreen() {
       }
       let loc = await Location.getCurrentPositionAsync({});
       setLocation(loc);
+      // 출발지 시/군/구
+      const city = await getCityName(loc.coords.latitude, loc.coords.longitude);
+      setStartCity(city);
       setLoading(false);
     })();
   }, []);
 
+  // 목적지별 시/군/구 캐시 생성
   useEffect(() => {
     if (!location) return;
-    // 예산 내 추천 지역 필터링 (validStations 사용)
+    const cache: { [key: string]: string } = {};
+    let isMounted = true;
+    (async () => {
+      for (const place of validStations) {
+        const key = `${place.lat},${place.lng}`;
+        if (!cache[key]) {
+          cache[key] = await getCityName(place.lat, place.lng);
+        }
+      }
+      if (isMounted) setCityCache(cache);
+    })();
+    return () => { isMounted = false; };
+  }, [location, validStations]);
+
+  // 예산 내 추천 지역 필터링
+  useEffect(() => {
+    if (!location || !startCity || Object.keys(cityCache).length === 0) return;
     const result = validStations
       .map((place: any) => {
         const dist = getDistanceFromLatLonInKm(
@@ -80,17 +122,28 @@ export default function HomeScreen() {
           place.lat,
           place.lng
         );
-        const fare = calcTaxiFare(dist);
-        return { ...place, dist: dist.toFixed(2), fare };
+        const destCity = cityCache[`${place.lat},${place.lng}`] || '';
+        const isOutOfCity = startCity && destCity && startCity !== destCity;
+        const fare = calcTaxiFare(dist, isOutOfCity);
+        return { ...place, dist: dist.toFixed(2), fare, isOutOfCity, destCity };
       })
       .filter(
         (place: any) =>
           !isNaN(place.fare) &&
           place.fare <= budget &&
           !isNaN(Number(place.dist))
-      );
+      )
+      .sort((a, b) => a.fare - b.fare); // 예상 택시비 오름차순 정렬
     setFiltered(result);
-  }, [location, budget, validStations]);
+  }, [location, budget, validStations, startCity, cityCache]);
+
+  // 검색어 적용된 리스트
+  const searched = React.useMemo(() => {
+    if (!search) return filtered;
+    return filtered.filter((item) =>
+      item.name.toLowerCase().includes(search.toLowerCase())
+    );
+  }, [filtered, search]);
 
   if (loading) {
     return (
@@ -105,6 +158,25 @@ export default function HomeScreen() {
     <SafeAreaView style={{ flex: 1, backgroundColor: '#fff' }}>
       <View style={{ flex: 1, padding: 20 }}>
         <Text style={styles.title}>택시비 예산(원): {budget.toLocaleString()}원</Text>
+        {/* 검색창 추가 */}
+        {Platform.OS === 'web' ? (
+          <input
+            type="text"
+            placeholder="역 이름 검색"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            style={{ width: '100%', padding: 8, marginBottom: 10, borderRadius: 6, border: '1px solid #ccc' }}
+          />
+        ) : (
+          <View style={{ width: '100%', marginBottom: 10 }}>
+            <TextInput
+              placeholder="역 이름 검색"
+              value={search}
+              onChangeText={setSearch}
+              style={{ backgroundColor: '#f5f5f5', padding: 8, borderRadius: 6, borderWidth: 1, borderColor: '#ccc' }}
+            />
+          </View>
+        )}
         {/* 슬라이더: 웹/모바일 호환 */}
         {Platform.OS === 'web' ? (
           <input
@@ -127,10 +199,10 @@ export default function HomeScreen() {
           />
         )}
         <Text style={{ marginTop: 20, fontWeight: 'bold' }}>
-          예산 내 추천 지역 ({filtered.length}곳):
+          예산 내 추천 지역 ({searched.length}곳):
         </Text>
         <FlatList
-          data={filtered}
+          data={searched}
           keyExtractor={(item) => item.id}
           renderItem={({ item }) => (
             <View style={styles.item}>
@@ -140,11 +212,12 @@ export default function HomeScreen() {
                 {item.transferLineName ? ` / 환승: ${item.transferLineName}` : ''}
               </Text>
               <Text style={{ fontSize: 12, color: '#888' }}>
+                {item.isOutOfCity ? '시외할증 적용 / ' : ''}
                 거리: {item.dist}km / 예상 택시비: {item.fare.toLocaleString()}원
               </Text>
             </View>
           )}
-          ListEmptyComponent={<Text>해당 예산으로 갈 수 있는 지역이 없습니다.</Text>}
+          ListEmptyComponent={<Text>해당 예산/검색어로 갈 수 있는 지역이 없습니다.</Text>}
           style={{ marginTop: 10 }}
         />
         <MapView
@@ -164,12 +237,12 @@ export default function HomeScreen() {
             title="내 위치"
             pinColor="blue"
           />
-          {filtered.map((place) => (
+          {searched.map((place) => (
             <Marker
               key={place.id}
               coordinate={{ latitude: place.lat, longitude: place.lng }}
               title={place.name}
-              description={`노선: ${place.lineName || ''}${place.transferLineName ? ` / 환승: ${place.transferLineName}` : ''}\n예상 택시비: ${place.fare.toLocaleString()}원`}
+              description={`노선: ${place.lineName || ''}${place.transferLineName ? ` / 환승: ${place.transferLineName}` : ''}\n${place.isOutOfCity ? '시외할증 적용\n' : ''}예상 택시비: ${place.fare.toLocaleString()}원`}
             />
           ))}
         </MapView>
