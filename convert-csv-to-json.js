@@ -11,6 +11,7 @@ fs.createReadStream('metro_20250417.csv')
     const latKey = Object.keys(data).find(k => k.includes('역위도'));
     const lngKey = Object.keys(data).find(k => k.includes('역경도'));
     const lineNameKey = Object.keys(data).find(k => k.includes('노선명'));
+    const stationAddress = Object.keys(data).find(k => k.includes('역사도로명주소'));
     const transferLineNameKey = Object.keys(data).find(k => k.includes('환승노선명'));
     if (data[latKey] && data[lngKey]) {
       results.push({
@@ -20,6 +21,7 @@ fs.createReadStream('metro_20250417.csv')
         lng: parseFloat(data[lngKey]),
         lineName: data[lineNameKey],
         transferLineName: data[transferLineNameKey],
+        stationAddress: data[stationAddress],
       });
     }
   })
