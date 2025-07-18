@@ -76,6 +76,10 @@ export default function HomeScreen() {
   const [startCity, setStartCity] = useState<string>('');
   const [cityCache, setCityCache] = useState<{ [key: string]: string }>({}); // 목적지별 시/군/구 캐시
   const [search, setSearch] = useState(''); // 역이름 검색어 상태 추가
+  // 출발지 입력 상태 추가
+  const [customStart, setCustomStart] = useState(''); // 출발지(역 이름) 입력값
+  const [startCoords, setStartCoords] = useState<{ lat: number, lng: number } | null>(null); // 출발지 좌표
+  const [customStartError, setCustomStartError] = useState(''); // 출발지 입력 에러
 
   // 1. 역 데이터 중 위도/경도 없는 항목 제외 + id 중복 제거
   const validStations = React.useMemo(() => {
@@ -114,6 +118,24 @@ export default function HomeScreen() {
     })();
   }, []);
 
+  // 출발지 좌표 결정 (customStart가 있으면 해당 역, 없으면 내 위치)
+  useEffect(() => {
+    if (!customStart) {
+      if (location) setStartCoords({ lat: location.coords.latitude, lng: location.coords.longitude });
+      setCustomStartError('');
+      return;
+    }
+    // 입력한 역 이름으로 검색 (대소문자 무시, 공백 허용)
+    const found = validStations.find(s => s.name.replace(/\s/g, '') === customStart.replace(/\s/g, ''));
+    if (found) {
+      setStartCoords({ lat: found.lat, lng: found.lng });
+      setCustomStartError('');
+    } else {
+      setStartCoords(null);
+      setCustomStartError('입력한 역 이름을 찾을 수 없습니다.');
+    }
+  }, [customStart, location, validStations]);
+
   // 목적지별 시/군/구 캐시 생성
   useEffect(() => {
     if (!location) return;
@@ -131,14 +153,14 @@ export default function HomeScreen() {
     return () => { isMounted = false; };
   }, [location, validStations]);
 
-  // 예산 내 추천 지역 필터링
+  // 예산 내 추천 지역 필터링 (startCoords 기준)
   useEffect(() => {
-    if (!location || !startCity) return;
+    if (!startCoords || !startCity) return;
     const result = validStations
       .map((place: any) => {
         const dist = getDistanceFromLatLonInKm(
-          location.coords.latitude,
-          location.coords.longitude,
+          startCoords.lat,
+          startCoords.lng,
           place.lat,
           place.lng
         );
@@ -156,7 +178,7 @@ export default function HomeScreen() {
       )
       .sort((a, b) => a.fare - b.fare); // 예상 택시비 오름차순 정렬
     setFiltered(result);
-  }, [location, budget, validStations, startCity]);
+  }, [startCoords, budget, validStations, startCity]);
 
   // 검색어 적용된 리스트
   const searched = React.useMemo(() => {
@@ -178,12 +200,34 @@ export default function HomeScreen() {
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: '#fff' }}>
       <View style={{ flex: 1, padding: 20 }}>
-        <Text style={styles.title}>택시비 예산(원): {budget.toLocaleString()}원</Text>
-        {/* 검색창 추가 */}
+        {/* 출발지 입력창 라벨 및 입력 */}
+        <Text style={{ fontWeight: 'bold', marginBottom: 4 }}>출발지 (역 이름, 미입력 시 내 위치)</Text>
         {Platform.OS === 'web' ? (
           <input
             type="text"
-            placeholder="역 이름 검색"
+            placeholder="예: 강남역"
+            value={customStart}
+            onChange={(e) => setCustomStart(e.target.value)}
+            style={{ width: '100%', padding: 8, marginBottom: 10, borderRadius: 6, border: '1px solid #ccc' }}
+          />
+        ) : (
+          <View style={{ width: '100%', marginBottom: 10 }}>
+            <TextInput
+              placeholder="예: 강남역"
+              value={customStart}
+              onChangeText={setCustomStart}
+              style={{ backgroundColor: '#f5f5f5', padding: 8, borderRadius: 6, borderWidth: 1, borderColor: '#ccc' }}
+            />
+          </View>
+        )}
+        {customStartError ? <Text style={{ color: 'red', fontSize: 12, marginBottom: 4 }}>{customStartError}</Text> : null}
+        <Text style={styles.title}>택시비 예산(원): {budget.toLocaleString()}원</Text>
+        {/* 역 이름 검색창 라벨 및 입력 */}
+        <Text style={{ fontWeight: 'bold', marginBottom: 4 }}>검색 결과 내 역명 검색</Text>
+        {Platform.OS === 'web' ? (
+          <input
+            type="text"
+            placeholder="검색 결과 내 역명 검색"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             style={{ width: '100%', padding: 8, marginBottom: 10, borderRadius: 6, border: '1px solid #ccc' }}
@@ -191,7 +235,7 @@ export default function HomeScreen() {
         ) : (
           <View style={{ width: '100%', marginBottom: 10 }}>
             <TextInput
-              placeholder="역 이름 검색"
+              placeholder="목적지 역 이름 검색"
               value={search}
               onChangeText={setSearch}
               style={{ backgroundColor: '#f5f5f5', padding: 8, borderRadius: 6, borderWidth: 1, borderColor: '#ccc' }}
